@@ -32,9 +32,15 @@ jobs:
           aws-region: 'eu-west-1'
           role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
 
+      - name: Minify JSON
+        shell: bash
+        run: |
+          mkdir -p output
+          jq 'del(.["$schema"])' -c < ./pubs/pubs.json > output/pubs.json
+
       - name: S3 sync
         shell: bash
         run: |
-          aws s3 sync pubs/ s3://${VARS_BUCKET_NAME}
+          aws s3 sync output/ s3://${VARS_BUCKET_NAME}
         env:
           VARS_BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
