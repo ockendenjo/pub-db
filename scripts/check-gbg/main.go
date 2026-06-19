@@ -51,11 +51,11 @@ type checker struct {
 }
 
 func (c *checker) checkPub(pub *types.Pub) error {
-	if pub.GoodBeerID == 0 {
+	if pub.GoodBeerID == nil {
 		return nil
 	}
 
-	gbgStr := strconv.Itoa(pub.GoodBeerID)
+	gbgStr := strconv.Itoa(*pub.GoodBeerID)
 
 	urlStr, err := url.JoinPath("https://goodbeerguide.org.uk/pub/", gbgStr, "/show")
 	if err != nil {
