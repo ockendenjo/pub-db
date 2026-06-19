@@ -2,6 +2,7 @@
   "$schema": "../schema/pubs.schema.json",
   "pubs": [
     {
+      "camraID": 149891,
       "goodBeerID": 59296,
       "lat": 55.93953,
       "lon": -3.17958,
@@ -10,6 +11,7 @@
       "realAles": 4
     },
     {
+      "camraID": 151264,
       "goodBeerID": 59560,
       "lat": 55.95327,
       "lon": -3.19465,
@@ -18,6 +20,7 @@
       "realAles": 6
     },
     {
+      "camraID": 151792,
       "goodBeerID": 59671,
       "lat": 55.94951,
       "lon": -3.18795,
@@ -26,6 +29,7 @@
       "realAles": 2
     },
     {
+      "camraID": 151006,
       "goodBeerID": 59491,
       "lat": 55.95016,
       "lon": -3.18843,
@@ -34,15 +38,17 @@
       "realAles": 3
     },
     {
+      "camraID": 149982,
       "goodBeerID": 59346,
       "lat": 55.95200,
       "lon": -3.20538,
       "name": "The Alexander Graham Bell",
       "address": "126-128 George Street, EH2 4JZ",
-      "realAles": 6,
+      "realAles": 7,
       "chain": "Wetherspoons"
     },
     {
+      "camraID": 151796,
       "goodBeerID": 59673,
       "lat": 55.95179,
       "lon": -3.20333,
@@ -51,6 +57,7 @@
       "realAles": 4
     },
     {
+      "camraID": 150034,
       "goodBeerID": 59371,
       "lat": 55.95795,
       "lon": -3.20620,
@@ -59,6 +66,7 @@
       "realAles": 1
     },
     {
+      "camraID": 151829,
       "goodBeerID": 59685,
       "lat": 55.95051,
       "lon": -3.18884,
@@ -67,6 +75,7 @@
       "realAles": 1
     },
     {
+      "camraID": 150112,
       "goodBeerID": 59419,
       "lat": 55.93821,
       "lon": -3.19154,
@@ -75,6 +84,7 @@
       "realAles": 3
     },
     {
+      "camraID": 151270,
       "goodBeerID": 59562,
       "lat": 55.95750,
       "lon": -3.16943,
@@ -83,6 +93,7 @@
       "realAles": 3
     },
     {
+      "camraID": 151574,
       "goodBeerID": 59630,
       "lat": 55.93900,
       "lon": -3.22367,
@@ -91,6 +102,7 @@
       "realAles": 6
     },
     {
+      "camraID": 150477,
       "goodBeerID": 59433,
       "lat": 55.94354,
       "lon": -3.18015,
@@ -100,6 +112,7 @@
       "tempClosed": true
     },
     {
+      "camraID": 151221,
       "goodBeerID": 59550,
       "lat": 55.9523,
       "lon": -3.1994,
@@ -108,6 +121,7 @@
       "realAles": 2
     },
     {
+      "camraID": 150795,
       "goodBeerID": 59451,
       "lat": 55.95752,
       "lon": -3.20720,
@@ -116,6 +130,7 @@
       "realAles": 3
     },
     {
+      "camraID": 150852,
       "goodBeerID": 59462,
       "lat": 55.94881,
       "lon": -3.18659,
@@ -125,6 +140,7 @@
       "tempClosed": true
     },
     {
+      "camraID": 150083,
       "goodBeerID": 59404,
       "lat": 55.94936,
       "lon": -3.18681,
@@ -133,6 +149,7 @@
       "realAles": 1
     },
     {
+      "camraID": 150927,
       "goodBeerID": 59474,
       "lat": 55.9583,
       "lon": -3.1895,
@@ -141,6 +158,7 @@
       "realAles": 4
     },
     {
+      "camraID": 151008,
       "goodBeerID": 59492,
       "lat": 55.9474,
       "lon": -3.1972,
@@ -150,6 +168,7 @@
     },
     {
       "goodBeerID": 80532,
+      "camraID": 150353,
       "lat": 55.95587,
       "lon": -3.16423,
       "name": "Bellfield Brewery Tap Room",
@@ -158,6 +177,7 @@
     },
     {
       "goodBeerID": 59499,
+      "camraID": 151034,
       "lat": 55.94175,
       "lon": -3.20333,
       "name": "Bennets Bar",
@@ -166,6 +186,7 @@
     },
     {
       "goodBeerID": 59501,
+      "camraID": 151046,
       "lat": 55.92643,
       "lon": -3.20958,
       "name": "Bennets of Morningside",
@@ -174,6 +195,7 @@
     },
     {
       "goodBeerID": 59541,
+      "camraID": 151185,
       "lat": 55.9473,
       "lon": -3.1975,
       "name": "Black Bull",
@@ -182,6 +204,7 @@
     },
     {
       "goodBeerID": 59663,
+      "camraID": 151761,
       "lat": 55.95163,
       "lon": -3.20369,
       "name": "Black Cat",
@@ -190,6 +213,7 @@
     },
     {
       "goodBeerID": 59564,
+      "camraID": 151280,
       "lat": 55.94590,
       "lon": -3.20319,
       "name": "Blue Blazer",
@@ -198,6 +222,7 @@
     },
     {
       "goodBeerID": 62885,
+      "camraID": 151669,
       "lat": 55.95176,
       "lon": -3.19154,
       "name": "The Booking Office",
@@ -207,6 +232,7 @@
     },
     {
       "goodBeerID": 59575,
+      "camraID": 151312,
       "lat": 55.94846,
       "lon": -3.19421,
       "name": "Bow Bar",
@@ -215,6 +241,7 @@
     },
     {
       "goodBeerID": 59436,
+      "camraID": 150611,
       "lat": 55.93687,
       "lon": -3.18064,
       "name": "Brass Monkey (The Grange)",
@@ -223,6 +250,7 @@
     },
     {
       "goodBeerID": 59358,
+      "camraID": 150003,
       "lat": 55.96402,
       "lon": -3.17771,
       "name": "Brass Monkey (Leith Walk)",
@@ -231,6 +259,7 @@
     },
     {
       "goodBeerID": 59326,
+      "camraID": 149944,
       "lat": 55.94735,
       "lon": -3.18531,
       "name": "Brass Monkey (Southside)",
@@ -239,6 +268,7 @@
     },
     {
       "goodBeerID": 59629,
+      "camraID": 151568,
       "lat": 55.94432,
       "lon": -3.20199,
       "name": "Lauri",
@@ -246,15 +276,17 @@
       "realAles": 3
     },
     {
+      "camraID": 149950,
       "goodBeerID": 65580,
       "lat": 55.97455,
       "lon": -3.16082,
-      "name": "The Bullfinch",
+      "name": "The Finch",
       "address": "2-4 Bath Road, EH6 7JT",
       "realAles": 1
     },
     {
       "goodBeerID": 59620,
+      "camraID": 151502,
       "lat": 55.95386,
       "lon": -3.19058,
       "name": "Cafe Royal",
@@ -263,6 +295,7 @@
     },
     {
       "goodBeerID": 74988,
+      "camraID": 150287,
       "lat": 55.94823,
       "lon": -3.20623,
       "name": "The Caley Picture House",
@@ -272,6 +305,7 @@
     },
     {
       "goodBeerID": 59559,
+      "camraID": 151260,
       "lat": 55.93764,
       "lon": -3.22579,
       "name": "Caley Sample Room",
@@ -280,6 +314,7 @@
     },
     {
       "goodBeerID": 59435,
+      "camraID": 150552,
       "lat": 55.95280,
       "lon": -3.20599,
       "name": "The Cambridge Bar",
@@ -288,6 +323,7 @@
     },
     {
       "goodBeerID": 59509,
+      "camraID": 151068,
       "lat": 55.92758,
       "lon": -3.20927,
       "name": "Canny Man's",
@@ -296,6 +332,7 @@
     },
     {
       "goodBeerID": 59561,
+      "camraID": 151266,
       "lat": 55.95084,
       "lon": -3.18246,
       "name": "The Canons' Gait",
@@ -304,6 +341,7 @@
     },
     {
       "goodBeerID": 59678,
+      "camraID": 151814,
       "lat": 55.94708,
       "lon": -3.18653,
       "name": "The Captain's Bar",
@@ -312,6 +350,7 @@
     },
     {
       "goodBeerID": 59503,
+      "camraID": 151050,
       "lat": 55.97606,
       "lon": -3.16856,
       "name": "The Carriers Quarters",
@@ -320,6 +359,7 @@
     },
     {
       "goodBeerID": 59568,
+      "camraID": 151292,
       "lat": 55.95912,
       "lon": -3.19047,
       "name": "Cask & Barrel (New Town)",
@@ -328,6 +368,7 @@
     },
     {
       "goodBeerID": 59438,
+      "camraID": 150692,
       "lat": 55.93904,
       "lon": -3.18002,
       "name": "Cask & Barrel (Southside)",
@@ -336,6 +377,7 @@
     },
     {
       "goodBeerID": 59640,
+      "camraID": 151610,
       "lat": 55.94860,
       "lon": -3.19481,
       "name": "The Castle Arms",
@@ -344,6 +386,7 @@
     },
     {
       "goodBeerID": 59659,
+      "camraID": 151737,
       "lat": 55.96019,
       "lon": -3.20100,
       "name": "Clark's Bar",
@@ -352,6 +395,7 @@
     },
     {
       "goodBeerID": 59578,
+      "camraID": 151322,
       "lat": 55.94323,
       "lon": -3.20199,
       "name": "Cloisters",
@@ -360,6 +404,7 @@
     },
     {
       "goodBeerID": 59670,
+      "camraID": 151780,
       "lat": 55.90739,
       "lon": -3.25609,
       "name": "Colinton Inn",
@@ -368,6 +413,7 @@
     },
     {
       "goodBeerID": 59611,
+      "camraID": 151456,
       "lat": 55.95653,
       "lon": -3.18792,
       "name": "The Conan Doyle",
@@ -376,6 +422,7 @@
     },
     {
       "goodBeerID": 59635,
+      "camraID": 151594,
       "lat": 55.94061,
       "lon": -3.28332,
       "name": "Corstorphine Inn",
@@ -384,6 +431,7 @@
     },
     {
       "goodBeerID": 59683,
+      "camraID": 151824,
       "lat": 55.93484,
       "lon": -3.09454,
       "name": "Cuddie Brae",
@@ -392,6 +440,7 @@
     },
     {
       "goodBeerID": 59309,
+      "camraID": 149914,
       "lat": 55.959,
       "lon": -3.1972,
       "name": "The Cumberland Bar",
@@ -400,6 +449,7 @@
     },
     {
       "goodBeerID": 59303,
+      "camraID": 149902,
       "lat": 55.94214,
       "lon": -3.18400,
       "name": "Dagda",
@@ -408,6 +458,7 @@
     },
     {
       "goodBeerID": 59697,
+      "camraID": 151853,
       "lat": 55.94368,
       "lon": -3.05791,
       "name": "The David MacBeth Moir",
@@ -417,6 +468,7 @@
     },
     {
       "goodBeerID": 59312,
+      "camraID": 149924,
       "lat": 55.94951,
       "lon": -3.19290,
       "name": "Deacon Brodies Tavern",
@@ -424,6 +476,7 @@
       "realAles": 5
     },
     {
+      "camraID": 151052,
       "goodBeerID": 59504,
       "lat": 55.95146,
       "lon": -3.20491,
@@ -433,6 +486,7 @@
     },
     {
       "goodBeerID": 59316,
+      "camraID": 149929,
       "lat": 55.94547,
       "lon": -3.19086,
       "name": "Doctors",
@@ -441,6 +495,7 @@
     },
     {
       "goodBeerID": 59322,
+      "camraID": 149939,
       "lat": 55.95094,
       "lon": -3.19068,
       "name": "The Doric",
@@ -449,6 +504,7 @@
     },
     {
       "goodBeerID": 74695,
+      "camraID": 150275,
       "lat": 55.97893,
       "lon": -3.18660,
       "name": "Dreadnought",
@@ -457,6 +513,7 @@
     },
     {
       "goodBeerID": 59338,
+      "camraID": 149968,
       "lat": 55.93802,
       "lon": -3.19301,
       "name": "The Earl of Marchmont",
@@ -465,6 +522,7 @@
     },
     {
       "goodBeerID": 59337,
+      "camraID": 149967,
       "lat": 55.94948,
       "lon": -3.22511,
       "name": "Edinburgh Sports Club",
@@ -473,6 +531,7 @@
     },
     {
       "goodBeerID": 59354,
+      "camraID": 149992,
       "lat": 55.94917,
       "lon": -3.19439,
       "name": "Ensign Ewart",
@@ -481,6 +540,7 @@
     },
     {
       "goodBeerID": 59336,
+      "camraID": 149966,
       "lat": 55.95486,
       "lon": -3.11062,
       "name": "The Esplanade",
@@ -488,7 +548,6 @@
       "realAles": 2
     },
     {
-      "goodBeerID": 0,
       "camraID": 151213,
       "lat": 55.94688,
       "lon": -3.19781,
@@ -498,6 +557,7 @@
     },
     {
       "goodBeerID": 59689,
+      "camraID": 151837,
       "lat": 55.97053,
       "lon": -3.17129,
       "name": "Angel",
@@ -507,6 +567,7 @@
     },
     {
       "goodBeerID": 59386,
+      "camraID": 150060,
       "lat": 55.94607,
       "lon": -3.20348,
       "name": "Footlights",
@@ -515,6 +576,7 @@
     },
     {
       "goodBeerID": 59378,
+      "camraID": 150043,
       "lat": 55.95509,
       "lon": -3.11795,
       "name": "Foresters Guild",
@@ -523,6 +585,7 @@
     },
     {
       "goodBeerID": 59660,
+      "camraID": 151739,
       "lat": 55.94038,
       "lon": -3.21806,
       "name": "The Fountain",
@@ -531,6 +594,7 @@
     },
     {
       "goodBeerID": 62816,
+      "camraID": 151206,
       "lat": 55.94806,
       "lon": -3.19173,
       "name": "George IV Bar",
@@ -539,6 +603,7 @@
     },
     {
       "goodBeerID": 59403,
+      "camraID": 150082,
       "lat": 55.93905,
       "lon": -3.21868,
       "name": "Golden Rule",
@@ -547,6 +612,7 @@
     },
     {
       "goodBeerID": 59355,
+      "camraID": 149995,
       "lat": 55.96007,
       "lon": -3.21332,
       "name": "The Grange Cricket Club",
@@ -555,6 +621,7 @@
     },
     {
       "goodBeerID": 59422,
+      "camraID": 150155,
       "lat": 55.94688,
       "lon": -3.19142,
       "name": "Greyfriars Bobby",
@@ -563,6 +630,7 @@
     },
     {
       "goodBeerID": 59423,
+      "camraID": 150175,
       "lat": 55.94980,
       "lon": -3.20925,
       "name": "The Grosvenor",
@@ -571,6 +639,7 @@
     },
     {
       "goodBeerID": 59424,
+      "camraID": 150197,
       "lat": 55.95366,
       "lon": -3.19004,
       "name": "Guildford Arms",
@@ -579,6 +648,7 @@
     },
     {
       "goodBeerID": 59425,
+      "camraID": 150257,
       "lat": 55.95099,
       "lon": -3.18889,
       "name": "Halfway House",
@@ -587,6 +657,7 @@
     },
     {
       "goodBeerID": 59427,
+      "camraID": 150281,
       "lat": 55.94550,
       "lon": -3.24291,
       "name": "Edinburgh Whisky House",
@@ -596,6 +667,7 @@
     },
     {
       "goodBeerID": 59363,
+      "camraID": 150012,
       "lat": 55.94551,
       "lon": -3.20525,
       "name": "The Hanging Bat",
@@ -604,6 +676,7 @@
     },
     {
       "goodBeerID": 59672,
+      "camraID": 1517950,
       "lat": 55.98078,
       "lon": -3.19501,
       "name": "The Harbour Inn",
@@ -612,6 +685,7 @@
     },
     {
       "goodBeerID": 59429,
+      "camraID": 150323,
       "lat": 55.94635,
       "lon": -3.21628,
       "name": "Haymarket",
@@ -620,6 +694,7 @@
     },
     {
       "goodBeerID": 59645,
+      "camraID": 151654,
       "lat": 55.95093,
       "lon": -3.19078,
       "name": "Hebrides Market Street",
@@ -628,6 +703,7 @@
     },
     {
       "goodBeerID": 59623,
+      "camraID": 151508,
       "lat": 55.94609,
       "lon": -3.21350,
       "name": "Hebrides West End",
@@ -636,6 +712,7 @@
     },
     {
       "goodBeerID": 59302,
+      "camraID": 149901,
       "lat": 55.95877,
       "lon": -3.20987,
       "name": "Hectors",
@@ -644,6 +721,7 @@
     },
     {
       "goodBeerID": 59583,
+      "camraID": 151336,
       "lat": 55.9246,
       "lon": -3.2097,
       "name": "The Hermitage",
@@ -652,6 +730,7 @@
     },
     {
       "goodBeerID": 59432,
+      "camraID": 150454,
       "lat": 55.9023,
       "lon": -3.2208,
       "name": "Hunter's Tryst",
@@ -660,6 +739,7 @@
     },
     {
       "goodBeerID": 59639,
+      "camraID": 151608,
       "lat": 55.95838,
       "lon": -3.183666,
       "name": "Jeremiah's Taproom",
@@ -668,6 +748,7 @@
     },
     {
       "goodBeerID": 59571,
+      "camraID": 151300,
       "lat": 55.9509,
       "lon": -3.1889,
       "name": "Jinglin' Geordie Bar",
@@ -676,6 +757,7 @@
     },
     {
       "goodBeerID": 59449,
+      "camraID": 150785,
       "lat": 55.933551,
       "lon": -3.177782,
       "name": "Leslie's",
@@ -684,6 +766,7 @@
     },
     {
       "goodBeerID": 66285,
+      "camraID": 150103,
       "lat": 55.960618,
       "lon": -3.181291,
       "name": "Joker & the Thief",
@@ -692,6 +775,7 @@
     },
     {
       "goodBeerID": 59437,
+      "camraID": 150662,
       "lat": 55.9495,
       "lon": -3.1939,
       "name": "Jolly Judge",
@@ -700,6 +784,7 @@
     },
     {
       "goodBeerID": 59439,
+      "camraID": 150725,
       "lat": 55.88836,
       "lon": -3.080268,
       "name": "The Justinlees",
@@ -708,6 +793,7 @@
     },
     {
       "goodBeerID": 59440,
+      "camraID": 150745,
       "lat": 55.9557,
       "lon": -3.205,
       "name": "Kay's Bar",
@@ -716,6 +802,7 @@
     },
     {
       "goodBeerID": 59441,
+      "camraID": 150749,
       "lat": 55.9518,
       "lon": -3.2023,
       "name": "The Kenilworth",
@@ -724,6 +811,7 @@
     },
     {
       "goodBeerID": 59443,
+      "camraID": 150755,
       "lat": 55.97616,
       "lon": -3.16964,
       "name": "King's Wark",
@@ -732,6 +820,7 @@
     },
     {
       "goodBeerID": 59444,
+      "camraID": 150761,
       "lat": 55.902243,
       "lon": -3.288456,
       "name": "Kinleith Mill",
@@ -740,6 +829,7 @@
     },
     {
       "goodBeerID": 59445,
+      "camraID": 150768,
       "lat": 55.883500794293,
       "lon": -3.115235626984,
       "name": "Laird & Dog Inn",
@@ -748,6 +838,7 @@
     },
     {
       "goodBeerID": 59446,
+      "camraID": 150771,
       "lat": 55.947825,
       "lon": -3.195273,
       "name": "The Last Drop",
@@ -756,6 +847,7 @@
     },
     {
       "goodBeerID": 85745,
+      "camraID": 196867,
       "lat": 55.951037808972,
       "lon": -3.18185364418,
       "name": "Mackays on the Mile",
@@ -764,6 +856,7 @@
     },
     {
       "goodBeerID": 59452,
+      "camraID": 150804,
       "lat": 55.9568,
       "lon": -3.1924,
       "name": "The Magnum",
@@ -772,6 +865,7 @@
     },
     {
       "goodBeerID": 59573,
+      "camraID": 151306,
       "lat": 55.975912,
       "lon": -3.169998,
       "name": "Malt & Hops",
@@ -780,6 +874,7 @@
     },
     {
       "goodBeerID": 59453,
+      "camraID": 150807,
       "lat": 55.950628391052,
       "lon": -3.190686210976,
       "name": "The Malt Shovel",
@@ -788,6 +883,7 @@
     },
     {
       "goodBeerID": 59455,
+      "camraID": 150813,
       "lat": 55.957116,
       "lon": -3.188061,
       "name": "Mather's Broughton Street",
@@ -796,6 +892,7 @@
     },
     {
       "goodBeerID": 59594,
+      "camraID": 151376,
       "lat": 55.950274,
       "lon": -3.208684,
       "name": "Mathers West End",
@@ -804,6 +901,7 @@
     },
     {
       "goodBeerID": 59334,
+      "camraID": 149963,
       "lat": 55.895132,
       "lon": -3.096431,
       "name": "Melville Inn",
@@ -812,6 +910,7 @@
     },
     {
       "goodBeerID": 59582,
+      "camraID": 151334,
       "lat": 55.9291,
       "lon": -3.2098,
       "name": "The Merlin",
@@ -820,6 +919,7 @@
     },
     {
       "goodBeerID": 59551,
+      "camraID": 151229,
       "lat": 55.9529,
       "lon": -3.1964,
       "name": "Milnes",
@@ -828,6 +928,7 @@
     },
     {
       "goodBeerID": 59458,
+      "camraID": 150828,
       "lat": 55.950421,
       "lon": -3.186427,
       "name": "The Mitre",
@@ -835,7 +936,6 @@
       "realAles": 5
     },
     {
-      "goodBeerID": 0,
       "camraID": 150397,
       "lat": 55.969111079401,
       "lon": -3.173928863754,
@@ -844,7 +944,6 @@
       "realAles": 0
     },
     {
-      "goodBeerID": 0,
       "camraID": 149943,
       "lat": 55.9826,
       "lon": -3.1952,
@@ -854,6 +953,7 @@
     },
     {
       "goodBeerID": 59484,
+      "camraID": 150966,
       "lat": 55.950686,
       "lon": -3.184406,
       "name": "No. 1 High Street",
@@ -862,6 +962,7 @@
     },
     {
       "goodBeerID": 59622,
+      "camraID": 151506,
       "lat": 55.963,
       "lon": -3.1956,
       "name": "O'Connor's",
@@ -870,6 +971,7 @@
     },
     {
       "goodBeerID": 59466,
+      "camraID": 150867,
       "lat": 55.9349,
       "lon": -3.179,
       "name": "Old Bell",
@@ -878,6 +980,7 @@
     },
     {
       "goodBeerID": 59467,
+      "camraID": 150873,
       "lat": 55.980016,
       "lon": -3.204311,
       "name": "Old Chain Pier",
@@ -886,6 +989,7 @@
     },
     {
       "goodBeerID": 84203,
+      "camraID": 195304,
       "lat": 55.96232970477,
       "lon": -3.170859708004,
       "name": "Old Eastway Tap",
@@ -894,6 +998,7 @@
     },
     {
       "goodBeerID": 59465,
+      "camraID": 150862,
       "lat": 55.96335,
       "lon": -3.200697,
       "name": "The Orchard",
@@ -902,6 +1007,7 @@
     },
     {
       "goodBeerID": 59469,
+      "camraID": 150885,
       "lat": 55.949133918842,
       "lon": -3.098640289688,
       "name": "The Ormelie",
@@ -910,6 +1016,7 @@
     },
     {
       "goodBeerID": 59567,
+      "camraID": 151290,
       "lat": 55.959021924043,
       "lon": -3.190824490738,
       "name": "The Ox",
@@ -918,6 +1025,7 @@
     },
     {
       "goodBeerID": 59470,
+      "camraID": 150888,
       "lat": 55.95297,
       "lon": -3.204794,
       "name": "The Oxford Bar",
@@ -935,6 +1043,7 @@
     },
     {
       "goodBeerID": 59393,
+      "camraID": 150068,
       "lat": 55.946,
       "lon": -3.2185,
       "name": "Platform 5",
@@ -943,6 +1052,7 @@
     },
     {
       "goodBeerID": 59693,
+      "camraID": 151842,
       "lat": 55.956484,
       "lon": -3.186,
       "name": "The Playfair",
@@ -952,6 +1062,7 @@
     },
     {
       "goodBeerID": 59657,
+      "camraID": 151727,
       "lat": 55.9541,
       "lon": -3.1168,
       "name": "Portobello Tap",
@@ -960,6 +1071,7 @@
     },
     {
       "goodBeerID": 59475,
+      "camraID": 150933,
       "lat": 55.9537,
       "lon": -3.2005,
       "name": "Queens Arms",
@@ -967,7 +1079,6 @@
       "realAles": 3
     },
     {
-      "goodBeerID": 0,
       "camraID": 150945,
       "lat": 55.903339,
       "lon": -3.285509,
@@ -978,6 +1089,7 @@
     },
     {
       "goodBeerID": 59701,
+      "camraID": 151863,
       "lat": 55.95642,
       "lon": -3.172105,
       "name": "The Regent",
@@ -986,6 +1098,7 @@
     },
     {
       "goodBeerID": 59480,
+      "camraID": 150951,
       "lat": 55.896419533649,
       "lon": -3.309407288361,
       "name": "The Riccarton Inn",
@@ -994,6 +1107,7 @@
     },
     {
       "goodBeerID": 59482,
+      "camraID": 150957,
       "lat": 55.963759135844,
       "lon": -3.177495393848,
       "name": "Robbie's Bar",
@@ -1002,6 +1116,7 @@
     },
     {
       "goodBeerID": 59625,
+      "camraID": 151538,
       "lat": 55.9525,
       "lon": -3.1989,
       "name": "Rose St Brewery",
@@ -1010,6 +1125,7 @@
     },
     {
       "goodBeerID": 59648,
+      "camraID": 151667,
       "lat": 55.945375968143,
       "lon": -3.233838660049,
       "name": "Roseburn Bar",
@@ -1018,6 +1134,7 @@
     },
     {
       "goodBeerID": 59304,
+      "camraID": 149903,
       "lat": 55.976,
       "lon": -3.1735,
       "name": "Roseleaf",
@@ -1026,6 +1143,7 @@
     },
     {
       "goodBeerID": 59375,
+      "camraID": 150039,
       "lat": 55.939935258044,
       "lon": -3.182427130355,
       "name": "The Royal Dick (Summerhall)",
@@ -1034,6 +1152,7 @@
     },
     {
       "goodBeerID": 59485,
+      "camraID": 150975,
       "lat": 55.9480,
       "lon": -3.1862,
       "name": "The Royal Oak",
@@ -1042,6 +1161,7 @@
     },
     {
       "goodBeerID": 59597,
+      "camraID": 151386,
       "lat": 55.94583517787,
       "lon": -3.217377320099,
       "name": "Ryrie's",
@@ -1050,6 +1170,7 @@
     },
     {
       "goodBeerID": 59563,
+      "camraID": 151272,
       "lat": 55.957199376024,
       "lon": -3.167698748341,
       "name": "The Safari Lounge",
@@ -1058,6 +1179,7 @@
     },
     {
       "goodBeerID": 59585,
+      "camraID": 151350,
       "lat": 55.9383,
       "lon": -3.174,
       "name": "The Salisbury Arms",
@@ -1066,6 +1188,7 @@
     },
     {
       "goodBeerID": 80462,
+      "camraID": 150351,
       "lat": 55.949243,
       "lon": -3.185469,
       "name": "Salt Horse",
@@ -1075,6 +1198,7 @@
     },
     {
       "goodBeerID": 59549,
+      "camraID": 151219,
       "lat": 55.946068,
       "lon": -3.19128,
       "name": "Sandy Bell's",
@@ -1082,7 +1206,6 @@
       "realAles": 5
     },
     {
-      "goodBeerID": 0,
       "camraID": 149928,
       "lat": 55.951,
       "lon": -3.1884,
@@ -1092,6 +1215,7 @@
     },
     {
       "goodBeerID": 59487,
+      "camraID": 150984,
       "lat": 55.955448,
       "lon": -3.140574,
       "name": "The Scottie",
@@ -1100,6 +1224,7 @@
     },
     {
       "goodBeerID": 59370,
+      "camraID": 150032,
       "lat": 55.9591,
       "lon": -3.2146,
       "name": "The Scran & Scallie",
@@ -1108,6 +1233,7 @@
     },
     {
       "goodBeerID": 59576,
+      "camraID": 151316,
       "lat": 55.947579,
       "lon": -3.205833,
       "name": "Shakespeares",
@@ -1116,6 +1242,7 @@
     },
     {
       "goodBeerID": 59488,
+      "camraID": 150996,
       "lat": 55.942001720352,
       "lon": -3.148468628311,
       "name": "Sheep Heid",
@@ -1124,6 +1251,7 @@
     },
     {
       "goodBeerID": 59626,
+      "camraID": 151548,
       "lat": 55.97748,
       "lon": -3.169036,
       "name": "The Shore",
@@ -1131,7 +1259,6 @@
       "realAles": 2
     },
     {
-      "goodBeerID": 0,
       "camraID": 151010,
       "lat": 55.9453,
       "lon": -3.1836,
@@ -1141,6 +1268,7 @@
     },
     {
       "goodBeerID": 59486,
+      "camraID": 150978,
       "lat": 55.90768,
       "lon": -3.258203,
       "name": "The Spylaw",
@@ -1149,6 +1277,7 @@
     },
     {
       "goodBeerID": 62712,
+      "camraID": 149910,
       "lat": 55.958975,
       "lon": -3.210319,
       "name": "St Bernard's Bar",
@@ -1157,6 +1286,7 @@
     },
     {
       "goodBeerID": 59494,
+      "camraID": 151016,
       "lat": 55.957982,
       "lon": -3.203427,
       "name": "St Vincent",
@@ -1165,6 +1295,7 @@
     },
     {
       "goodBeerID": 59495,
+      "camraID": 151018,
       "lat": 55.903693,
       "lon": -3.181594,
       "name": "The Stable Bar",
@@ -1173,6 +1304,7 @@
     },
     {
       "goodBeerID": 59510,
+      "camraID": 151070,
       "lat": 55.944151,
       "lon": -3.057204,
       "name": "Staggs",
@@ -1181,6 +1313,7 @@
     },
     {
       "goodBeerID": 59669,
+      "camraID": 151778,
       "lat": 55.9529,
       "lon": -3.1996,
       "name": "The Standing Order",
@@ -1189,7 +1322,6 @@
       "chain": "Wetherspoons"
     },
     {
-      "goodBeerID": 0,
       "camraID": 151022,
       "lat": 55.9573,
       "lon": -3.1958,
@@ -1199,6 +1331,7 @@
     },
     {
       "goodBeerID": 59497,
+      "camraID": 151030,
       "lat": 55.979828,
       "lon": -3.202055,
       "name": "Starbank Inn",
@@ -1207,6 +1340,7 @@
     },
     {
       "goodBeerID": 59498,
+      "camraID": 151032,
       "lat": 55.89068,
       "lon": -3.20108,
       "name": "The Steading",
@@ -1215,7 +1349,6 @@
       "tempClosed": true
     },
     {
-      "goodBeerID": 0,
       "camraID": 150099,
       "lat": 55.976085564151,
       "lon": -3.168412915921,
@@ -1226,6 +1359,7 @@
     },
     {
       "goodBeerID": 59457,
+      "camraID": 150826,
       "lat": 55.9376,
       "lon": -3.181,
       "name": "Steel Coulson (Southside)",
@@ -1234,6 +1368,7 @@
     },
     {
       "goodBeerID": 59311,
+      "camraID": 149922,
       "lat": 55.872318,
       "lon": -3.16149,
       "name": "Stewart Brewing Taproom",
@@ -1242,6 +1377,7 @@
     },
     {
       "goodBeerID": 59524,
+      "camraID": 151125,
       "lat": 55.958896,
       "lon": -3.209958,
       "name": "The Stockbridge Tap",
@@ -1250,6 +1386,7 @@
     },
     {
       "goodBeerID": 67534,
+      "camraID": 150109,
       "lat": 55.94865,
       "lon": -3.18778,
       "name": "Stramash!",
@@ -1258,6 +1395,7 @@
     },
     {
       "goodBeerID": 59610,
+      "camraID": 151444,
       "lat": 55.9072,
       "lon": -3.2745,
       "name": "Tanners",
@@ -1266,6 +1404,7 @@
     },
     {
       "goodBeerID": 59595,
+      "camraID": 151378,
       "lat": 55.949352820226,
       "lon": -3.212346004963,
       "name": "Teuchters (West End)",
@@ -1274,6 +1413,7 @@
     },
     {
       "goodBeerID": 59513,
+      "camraID": 151077,
       "lat": 55.977464,
       "lon": -3.171407,
       "name": "Teuchters Landing",
@@ -1282,6 +1422,7 @@
     },
     {
       "goodBeerID": 59565,
+      "camraID": 151282,
       "lat": 55.957201,
       "lon": -3.185044,
       "name": "Theatre Royal",
@@ -1290,6 +1431,7 @@
     },
     {
       "goodBeerID": 59305,
+      "camraID": 149904,
       "lat": 55.954062,
       "lon": -3.198889,
       "name": "Thistle Street Bar",
@@ -1298,6 +1440,7 @@
     },
     {
       "goodBeerID": 59530,
+      "camraID": 151145,
       "lat": 55.946223719648,
       "lon": -3.212296402447,
       "name": "Thomson's Bar",
@@ -1306,6 +1449,7 @@
     },
     {
       "goodBeerID": 59655,
+      "camraID": 151719,
       "lat": 55.9537,
       "lon": -3.192,
       "name": "Tiles Bistro Bar",
@@ -1314,6 +1458,7 @@
     },
     {
       "goodBeerID": 59634,
+      "camraID": 151590,
       "lat": 55.9431,
       "lon": -3.2839,
       "name": "Toby Carvery (Corstorphine)",
@@ -1322,6 +1467,7 @@
     },
     {
       "goodBeerID": 59332,
+      "camraID": 149961,
       "lat": 55.9515,
       "lon": -3.1805,
       "name": "Tolbooth Tavern",
@@ -1330,6 +1476,7 @@
     },
     {
       "goodBeerID": 59614,
+      "camraID": 151462,
       "lat": 55.925253,
       "lon": -3.210454,
       "name": "The Waiting Room",
@@ -1338,6 +1485,7 @@
     },
     {
       "goodBeerID": 59512,
+      "camraID": 151075,
       "lat": 55.9568,
       "lon": -3.1986,
       "name": "The Wally Dug",
@@ -1345,7 +1493,6 @@
       "realAles": 2
     },
     {
-      "goodBeerID": 0,
       "camraID": 150335,
       "lat": 55.933793,
       "lon": -3.302873,
@@ -1355,6 +1502,7 @@
     },
     {
       "goodBeerID": 59592,
+      "camraID": 151370,
       "lat": 55.950867,
       "lon": -3.207927,
       "name": "Whighams Wine Cellars",
@@ -1363,6 +1511,7 @@
     },
     {
       "goodBeerID": 59632,
+      "camraID": 151582,
       "lat": 55.9499,
       "lon": -3.1873,
       "name": "Whistle Binkies",
@@ -1371,6 +1520,7 @@
     },
     {
       "goodBeerID": 59644,
+      "camraID": 151644,
       "lat": 55.94749,
       "lon": -3.196686,
       "name": "The White Hart Inn",
@@ -1379,6 +1529,7 @@
     },
     {
       "goodBeerID": 59599,
+      "camraID": 151396,
       "lat": 55.943,
       "lon": -3.2822,
       "name": "The White Lady",
@@ -1386,7 +1537,6 @@
       "realAles": 8
     },
     {
-      "goodBeerID": 0,
       "camraID": 151470,
       "lat": 55.9428706604799,
       "lon": -3.0494457376933615,
@@ -1396,6 +1546,7 @@
     },
     {
       "goodBeerID": 59572,
+      "camraID": 151302,
       "lat": 55.9599,
       "lon": -3.1823,
       "name": "The Windsor",
@@ -1404,6 +1555,7 @@
     },
     {
       "goodBeerID": 59600,
+      "camraID": 151398,
       "lat": 55.942115,
       "lon": -3.281396,
       "name": "Winstons",
@@ -1411,7 +1563,6 @@
       "realAles": 3
     },
     {
-      "goodBeerID": 0,
       "camraID": 151683,
       "lat": 55.896984216692,
       "lon": -3.304917202377,
@@ -1420,7 +1571,6 @@
       "realAles": 0
     },
     {
-      "goodBeerID": 0,
       "camraID": 150031,
       "lat": 55.966168818204,
       "lon": -3.175837550926,
@@ -1431,6 +1581,7 @@
     },
     {
       "goodBeerID": 59569,
+      "camraID": 151296,
       "lat": 55.9505,
       "lon": -3.1843,
       "name": "The World's End",
@@ -1439,6 +1590,7 @@
     },
     {
       "goodBeerID": 59468,
+      "camraID": 150879,
       "lat": 55.9657,
       "lon": -3.2729,
       "name": "Ye Olde Inn",
@@ -1447,6 +1599,7 @@
     },
     {
       "goodBeerID": 62768,
+      "camraID": 150882,
       "lat": 55.954247,
       "lon": -3.187352,
       "name": "The Penny Black",
@@ -1455,6 +1608,7 @@
     },
     {
       "goodBeerID": 62867,
+      "camraID": 151570,
       "lat": 55.952743,
       "lon": -3.197724,
       "name": "Robertson's 37 Bar",
@@ -1463,6 +1617,7 @@
     },
     {
       "goodBeerID": 59646,
+      "camraID": 151657,
       "lat": 55.950398,
       "lon": -3.186765,
       "name": "Royal Mile",
@@ -1471,6 +1626,7 @@
     },
     {
       "goodBeerID": 59687,
+      "camraID": 151832,
       "lat": 55.951445,
       "lon": -3.205312,
       "name": "Fierce Beer",
@@ -1479,6 +1635,7 @@
     },
     {
       "goodBeerID": 59579,
+      "camraID": 151324,
       "lat": 55.942381,
       "lon": -3.201171,
       "name": "Seamus's Pub",
@@ -1487,6 +1644,7 @@
     },
     {
       "goodBeerID": 62753,
+      "camraID": 150079,
       "lat": 55.962014,
       "lon": -3.179437,
       "name": "Otherworld Bar & Kitchen",
@@ -1495,6 +1653,7 @@
     },
     {
       "goodBeerID": 59658,
+      "camraID": 151733,
       "lat": 55.940358,
       "lon": -3.203689,
       "name": "Belfry",
@@ -1503,6 +1662,7 @@
     },
     {
       "goodBeerID": 76677,
+      "camraID": 150329,
       "lat": 55.971064,
       "lon": -3.177726,
       "name": "Campervan Brewery Tap & Shop",
@@ -1511,6 +1671,7 @@
     },
     {
       "goodBeerID": 59695,
+      "camraID": 151849,
       "lat": 55.967409,
       "lon": -3.174786,
       "name": "Volley Leith",
@@ -1518,7 +1679,6 @@
       "realAles": 1
     },
     {
-      "goodBeerID": 0,
       "camraID": 151695,
       "lat": 55.969052,
       "lon": -3.173319,
@@ -1528,7 +1688,8 @@
     },
     {
       "goodBeerID": 62933,
-      "lat": 55.964240,
+      "camraID": 151811,
+      "lat": 55.96424,
       "lon": -3.193038,
       "name": "Powder Room Bar",
       "address": "97-99 Broughton Road, Edinburgh, EH7 4EG",
@@ -1536,6 +1697,7 @@
     },
     {
       "goodBeerID": 82671,
+      "camraID": 150575,
       "lat": 55.971101,
       "lon": -3.170468,
       "name": "False Widow",
@@ -1544,6 +1706,7 @@
     },
     {
       "goodBeerID": 59464,
+      "camraID": 150859,
       "lat": 55.974851,
       "lon": -3.167203,
       "name": "Nobles by Bellfield",
@@ -1552,8 +1715,9 @@
     },
     {
       "goodBeerID": 59647,
-      "lat": 55.975280,
-      "lon": -3.167160,
+      "camraID": 151661,
+      "lat": 55.97528,
+      "lon": -3.16716,
       "name": "Diggers Leith",
       "address": "7 Bernard Street, Edinburgh, EH6 6PW",
       "realAles": 2
@@ -1562,7 +1726,7 @@
       "goodBeerID": 59463,
       "camraID": 150856,
       "lat": 55.956024,
-      "lon": -3.402310,
+      "lon": -3.40231,
       "name": "Newliston Arms",
       "address": "78-82 Main Street, Kirkliston, EH29 9AB",
       "realAles": 2
@@ -1570,8 +1734,8 @@
     {
       "goodBeerID": 59601,
       "camraID": 151402,
-      "lat": 55.923260,
-      "lon": -3.378808,
+      "lat": 55.92326,
+      "lon": -3.37881,
       "name": "Bridge Inn",
       "address": "27 Baird Road, Ratho, EH28 8RU",
       "realAles": 3
@@ -1588,8 +1752,8 @@
     {
       "goodBeerID": 62913,
       "camraID": 151773,
-      "lat": 55.868833,
-      "lon": -3.068790,
+      "lat": 55.86883,
+      "lon": -3.06879,
       "name": "Dean Tavern",
       "address": "80 Main Street, Newtongrange, EH22 4NA",
       "realAles": 2

@@ -5,8 +5,8 @@ type PubsFile struct {
 }
 
 type Pub struct {
-	GoodBeerID int     `json:"goodBeerID"`
 	CamraID    int     `json:"camraID"`
+	GoodBeerID *int    `json:"goodBeerID,omitempty"`
 	Lat        float64 `json:"lat"`
 	Lon        float64 `json:"lon"`
 	Name       string  `json:"name"`

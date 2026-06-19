@@ -50,7 +50,7 @@
         },
         "additionalProperties": false,
         "required": [
-          "goodBeerID",
+          "camraID",
           "lat",
           "lon",
           "name",
