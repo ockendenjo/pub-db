@@ -1517,12 +1517,13 @@
       "realAles": 1
     },
     {
-      "goodBeerID": 59650,
+      "goodBeerID": 0,
+      "camraID": 151695,
       "lat": 55.969052,
       "lon": -3.173319,
       "name": "Mother Superior",
       "address": "96-98 Leith Walk, Edinburgh, EH6 5HB",
-      "realAles": 1
+      "realAles": 0
     },
     {
       "goodBeerID": 62933,
