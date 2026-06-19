@@ -27,7 +27,7 @@ jobs:
 
       - name: Validate JSON
         run: |
-          ./yajsv.linux.amd64 -s schema/beer.schema.json breweries/*.json
+          ./yajsv.linux.amd64 -s schema/pub.schema.json pubs/*.json
 
 # Terraform validation
 
