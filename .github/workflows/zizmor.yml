@@ -1,0 +1,39 @@
+name: zizmor
+
+on:
+  push:
+    branches: [ "main" ]
+    paths: [ ".github/workflows/**" ]
+
+  pull_request:
+    branches: [ "main" ]
+    paths: [ ".github/workflows/**" ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  zizmor:
+    name: Run zizmor
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Download zizmor
+        shell: bash
+        run: |
+          wget -nv https://github.com/zizmorcore/zizmor/releases/download/v1.25.2/zizmor-x86_64-unknown-linux-gnu.tar.gz
+          echo "aa1facd105f0d83fe5c55b1adcd9d7417de5d83aa27471f91dc0b66cf3803577  zizmor-x86_64-unknown-linux-gnu.tar.gz" | sha256sum --check
+          tar -xvzf zizmor-x86_64-unknown-linux-gnu.tar.gz
+
+      - name: Run zizmor
+        shell: bash
+        run: |
+          ./zizmor --pedantic ./.github/

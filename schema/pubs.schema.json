@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/product.schema.json",
+  "title": "Pubs",
+  "description": "A data file of pubs",
+  "type": "object",
+  "properties": {
+    "pubs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "goodBeerID": {
+            "description": "ID from Good Beer Guide",
+            "type": "number"
+          },
+          "camraID": {
+            "description": "ID from Camra Pubs",
+            "type": "number",
+            "uniqueItems": true
+          },
+          "lat": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "lon": {
+            "type": "number"
+          },
+          "name": {
+            "type": "string"
+          },
+          "address": {
+            "type": "string"
+          },
+          "realAles": {
+            "type": "number",
+            "maximum": 10
+          },
+          "notes": {
+            "description": "Additional notes",
+            "type": "string"
+          },
+          "chain": {
+            "type": "string"
+          },
+          "tempClosed": {
+            "description": "If the pub is temporarily closed",
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false,
+        "required": [
+          "goodBeerID",
+          "lat",
+          "lon",
+          "name",
+          "address",
+          "realAles"
+        ]
+      }
+    }
+  },
+  "required": [
+    "pubs"
+  ]
+}
