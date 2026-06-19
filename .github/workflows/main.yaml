@@ -16,3 +16,11 @@ jobs:
   validate:
     name: Validate
     uses: ./.github/workflows/validate.yaml
+
+  sync:
+    name: Sync
+    needs: [ validate ]
+    permissions:
+      id-token: write # OIDC authentication with AWS
+      contents: read
+    uses: ./.github/workflows/sync.yaml
