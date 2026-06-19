@@ -1069,7 +1069,8 @@
       "lon": -3.185469,
       "name": "Salt Horse",
       "address": "57-61 Blackfriars Street, EH1 1NB",
-      "realAles": 10
+      "realAles": 0,
+      "notes": "Listed in GBG but no cask real-ale"
     },
     {
       "goodBeerID": 59549,
