@@ -164,7 +164,8 @@
       "lon": -3.1972,
       "name": "The Beehive Inn",
       "address": "18-20 Grassmarket, EH1 2JU",
-      "realAles": 4
+      "realAles": 4,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 80532,
@@ -436,7 +437,8 @@
       "lon": -3.09454,
       "name": "Cuddie Brae",
       "address": "91 Newcraighall Road, EH21 8RX",
-      "realAles": 2
+      "realAles": 2,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59309,
@@ -491,7 +493,8 @@
       "lon": -3.19086,
       "name": "Doctors",
       "address": "32 Forrest Road, EH1 2QN",
-      "realAles": 4
+      "realAles": 4,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59322,
@@ -879,7 +882,8 @@
       "lon": -3.190686210976,
       "name": "The Malt Shovel",
       "address": "11-15 Cockburn Street, EH1 1BP",
-      "realAles": 3
+      "realAles": 3,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59455,
@@ -915,7 +919,8 @@
       "lon": -3.2098,
       "name": "The Merlin",
       "address": "168 Morningside Road, EH10 4PU",
-      "realAles": 2
+      "realAles": 2,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59551,
@@ -924,7 +929,8 @@
       "lon": -3.1964,
       "name": "Milnes",
       "address": "35 Hanover Street, EH2 2PJ",
-      "realAles": 4
+      "realAles": 4,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59458,
@@ -1048,7 +1054,8 @@
       "lon": -3.2185,
       "name": "Platform 5",
       "address": "8 Clifton Terrace, EH12 5DR",
-      "realAles": 2
+      "realAles": 2,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59693,
@@ -1238,7 +1245,8 @@
       "lon": -3.205833,
       "name": "Shakespeares",
       "address": "65 Lothian Road, EH1 2DJ",
-      "realAles": 3
+      "realAles": 3,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59488,
@@ -1336,7 +1344,8 @@
       "lon": -3.202055,
       "name": "Starbank Inn",
       "address": "64 Laverockbank Road, EH5 3BZ",
-      "realAles": 6
+      "realAles": 6,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59498,
@@ -1498,7 +1507,8 @@
       "lon": -3.302873,
       "name": "Westgate Farm",
       "address": "55 South Gyle Broadway, EH12 9LR",
-      "realAles": 0
+      "realAles": 0,
+      "chain": "Greene King"
     },
     {
       "goodBeerID": 59592,

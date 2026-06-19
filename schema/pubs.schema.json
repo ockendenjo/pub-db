@@ -41,7 +41,11 @@
             "type": "string"
           },
           "chain": {
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "Wetherspoons",
+              "Greene King"
+            ]
           },
           "tempClosed": {
             "description": "If the pub is temporarily closed",
