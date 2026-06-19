@@ -84,6 +84,7 @@
       "realAles": 3
     },
     {
+      "camraID": 151270,
       "goodBeerID": 59562,
       "lat": 55.95750,
       "lon": -3.16943,
@@ -92,6 +93,7 @@
       "realAles": 3
     },
     {
+      "camraID": 151574,
       "goodBeerID": 59630,
       "lat": 55.93900,
       "lon": -3.22367,
@@ -100,6 +102,7 @@
       "realAles": 6
     },
     {
+      "camraID": 150477,
       "goodBeerID": 59433,
       "lat": 55.94354,
       "lon": -3.18015,
@@ -109,6 +112,7 @@
       "tempClosed": true
     },
     {
+      "camraID": 151221,
       "goodBeerID": 59550,
       "lat": 55.9523,
       "lon": -3.1994,
@@ -117,6 +121,7 @@
       "realAles": 2
     },
     {
+      "camraID": 150795,
       "goodBeerID": 59451,
       "lat": 55.95752,
       "lon": -3.20720,
@@ -125,6 +130,7 @@
       "realAles": 3
     },
     {
+      "camraID": 150852,
       "goodBeerID": 59462,
       "lat": 55.94881,
       "lon": -3.18659,
@@ -134,6 +140,7 @@
       "tempClosed": true
     },
     {
+      "camraID": 150083,
       "goodBeerID": 59404,
       "lat": 55.94936,
       "lon": -3.18681,
@@ -142,6 +149,7 @@
       "realAles": 1
     },
     {
+      "camraID": 150927,
       "goodBeerID": 59474,
       "lat": 55.9583,
       "lon": -3.1895,
@@ -150,6 +158,7 @@
       "realAles": 4
     },
     {
+      "camraID": 151008,
       "goodBeerID": 59492,
       "lat": 55.9474,
       "lon": -3.1972,
@@ -255,10 +264,11 @@
       "realAles": 3
     },
     {
+      "camraID": 149950,
       "goodBeerID": 65580,
       "lat": 55.97455,
       "lon": -3.16082,
-      "name": "The Bullfinch",
+      "name": "The Finch",
       "address": "2-4 Bath Road, EH6 7JT",
       "realAles": 1
     },
