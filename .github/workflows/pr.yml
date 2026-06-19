@@ -13,3 +13,7 @@ jobs:
   validate:
     name: Validate
     uses: ./.github/workflows/validate.yaml
+
+  build:
+    name: Go
+    uses: ./.github/workflows/go-build.yaml

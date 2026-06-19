@@ -27,3 +27,7 @@ jobs:
     secrets:
       AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
       BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
+
+  build:
+    name: Go
+    uses: ./.github/workflows/go-build.yaml
