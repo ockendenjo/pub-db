@@ -2,6 +2,7 @@
   "$schema": "../schema/pubs.schema.json",
   "pubs": [
     {
+      "camraID": 149891,
       "goodBeerID": 59296,
       "lat": 55.93953,
       "lon": -3.17958,
@@ -10,6 +11,7 @@
       "realAles": 4
     },
     {
+      "camraID": 151264,
       "goodBeerID": 59560,
       "lat": 55.95327,
       "lon": -3.19465,
@@ -18,6 +20,7 @@
       "realAles": 6
     },
     {
+      "camraID": 151792,
       "goodBeerID": 59671,
       "lat": 55.94951,
       "lon": -3.18795,
@@ -26,6 +29,7 @@
       "realAles": 2
     },
     {
+      "camraID": 151006,
       "goodBeerID": 59491,
       "lat": 55.95016,
       "lon": -3.18843,
@@ -34,15 +38,17 @@
       "realAles": 3
     },
     {
+      "camraID": 149982,
       "goodBeerID": 59346,
       "lat": 55.95200,
       "lon": -3.20538,
       "name": "The Alexander Graham Bell",
       "address": "126-128 George Street, EH2 4JZ",
-      "realAles": 6,
+      "realAles": 7,
       "chain": "Wetherspoons"
     },
     {
+      "camraID": 151796,
       "goodBeerID": 59673,
       "lat": 55.95179,
       "lon": -3.20333,
@@ -51,6 +57,7 @@
       "realAles": 4
     },
     {
+      "camraID": 150034,
       "goodBeerID": 59371,
       "lat": 55.95795,
       "lon": -3.20620,
@@ -59,6 +66,7 @@
       "realAles": 1
     },
     {
+      "camraID": 151829,
       "goodBeerID": 59685,
       "lat": 55.95051,
       "lon": -3.18884,
@@ -67,6 +75,7 @@
       "realAles": 1
     },
     {
+      "camraID": 150112,
       "goodBeerID": 59419,
       "lat": 55.93821,
       "lon": -3.19154,
