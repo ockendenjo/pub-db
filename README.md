@@ -61,3 +61,11 @@ mkdir -p tfvars
 aws s3 cp s3://pub-db-pro-state-20260619093551840000000001/pro.auto.tfvars tfvars/
 aws s3 cp s3://pub-db-pro-state-20260619093551840000000001/pro.backend.tfvars tfvars/
 ```
+
+### sast
+
+```shell
+wget -O .golangci.json https://raw.githubusercontent.com/ockendenjo/actions/refs/heads/main/.golangci.json
+golangci-lint run
+govulncheck ./...
+```
