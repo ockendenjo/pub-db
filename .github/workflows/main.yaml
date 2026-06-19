@@ -24,3 +24,6 @@ jobs:
       id-token: write # OIDC authentication with AWS
       contents: read
     uses: ./.github/workflows/sync.yaml
+    secrets:
+      AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
+      BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
