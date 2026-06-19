@@ -488,12 +488,13 @@
       "realAles": 2
     },
     {
-      "goodBeerID": 59546,
+      "goodBeerID": 0,
+      "camraID": 151213,
       "lat": 55.94688,
       "lon": -3.19781,
       "name": "The Fiddlers Arms",
       "address": "11-13 Grassmarket, EH1 2HY",
-      "realAles": 1
+      "realAles": 0
     },
     {
       "goodBeerID": 59689,
