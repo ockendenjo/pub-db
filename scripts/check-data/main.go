@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -16,10 +17,14 @@ import (
 )
 
 func main() {
-	f, err := os.Open("pubs/pubs.json")
+	f, err := os.OpenFile("pubs/pubs.json", os.O_RDWR|os.O_CREATE, 0644)
 	if err != nil {
 		panic(err)
 	}
+	defer func() {
+		_ = f.Close()
+	}()
+
 	var pf types.PubsFile
 	err = json.NewDecoder(f).Decode(&pf)
 	if err != nil {
@@ -44,6 +49,19 @@ func main() {
 		}
 		time.Sleep(1 * time.Second)
 	}
+
+	if err = f.Truncate(0); err != nil {
+		panic(err)
+	}
+	if _, err = f.Seek(0, io.SeekStart); err != nil {
+		panic(err)
+	}
+	enc := json.NewEncoder(f)
+	enc.SetIndent("", "  ")
+	enc.SetEscapeHTML(false)
+	if err = enc.Encode(pf); err != nil {
+		panic(err)
+	}
 }
 
 type checker struct {
@@ -55,9 +73,9 @@ func (c *checker) checkPub(pub *types.Pub) error {
 		return nil
 	}
 
-	gbgStr := strconv.Itoa(*pub.GoodBeerID)
+	idStr := strconv.Itoa(pub.CamraID)
 
-	urlStr, err := url.JoinPath("https://goodbeerguide.org.uk/pub/", gbgStr, "/show")
+	urlStr, err := url.JoinPath("https://camra.org.uk/pubs/", idStr)
 	if err != nil {
 		return err
 	}
@@ -80,6 +98,29 @@ func (c *checker) checkPub(pub *types.Pub) error {
 		return err
 	}
 
+	if err = updateNumBeers(pub, urlStr, b); err != nil {
+		return err
+	}
+	if pub.RealAles > pub.NumBeers {
+		pub.RealAles = pub.NumBeers
+	}
+	if err = updateCaskStatus(pub, urlStr, b); err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func updateCaskStatus(pub *types.Pub, urlStr string, b []byte) error {
+	hasCask := bytes.ContainsAny(b, caskStr)
+	if hasCask != pub.HasRealAle {
+		fmt.Printf("%s | %s: hasCask %t->%t\n", urlStr, pub.Name, pub.HasRealAle, hasCask)
+		pub.HasRealAle = hasCask
+	}
+	return nil
+}
+
+func updateNumBeers(pub *types.Pub, urlStr string, b []byte) error {
 	count := 0
 
 	regMatch := regBeers.FindStringSubmatch(string(b))
@@ -100,14 +141,14 @@ func (c *checker) checkPub(pub *types.Pub) error {
 		count += chgCount
 	}
 
-	if count != pub.RealAles {
-		fmt.Printf("%s | %s: realAles %d->%d\n", urlStr, pub.Name, pub.RealAles, count)
-		return nil
+	if count != pub.NumBeers {
+		fmt.Printf("%s | %s: numBeers %d->%d\n", urlStr, pub.Name, pub.NumBeers, count)
+		pub.NumBeers = count
 	}
-
-	//Any more checks?
 	return nil
 }
 
-var regBeers = regexp.MustCompile(`(\d+) regular beer`)
-var changingBeers = regexp.MustCompile(`(\d+) changing beer`)
+var changingBeers = regexp.MustCompile(`serves (\d+) changing`)
+var regBeers = regexp.MustCompile(`(\d+) regular`)
+
+const caskStr = "https://camra.org.uk/images/beer-containers/cask-ale-venues.png"

@@ -8,7 +8,9 @@
       "lon": -3.17958,
       "name": "The Abbey",
       "address": "65 South Clerk Street, EH8 9PP",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
       "camraID": 151264,
@@ -17,7 +19,9 @@
       "lon": -3.19465,
       "name": "Abbotsford Bar & Restaurant",
       "address": "3-5 Rose Street, EH2 2PR",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 7,
+      "hasRealAle": true
     },
     {
       "camraID": 151792,
@@ -26,7 +30,9 @@
       "lon": -3.18795,
       "name": "The Advocate",
       "address": "7 Hunter Square, EH1 1QW",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
       "camraID": 151006,
@@ -35,16 +41,20 @@
       "lon": -3.18843,
       "name": "The Albanach",
       "address": "197 High Street, EH1 1PE",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 149982,
       "goodBeerID": 59346,
-      "lat": 55.95200,
+      "lat": 55.952,
       "lon": -3.20538,
       "name": "The Alexander Graham Bell",
       "address": "126-128 George Street, EH2 4JZ",
       "realAles": 7,
+      "numBeers": 7,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -54,25 +64,31 @@
       "lon": -3.20333,
       "name": "The Amber Rose",
       "address": "22-26 Castle Street, EH2 4LS",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
       "camraID": 150034,
       "goodBeerID": 59371,
       "lat": 55.95795,
-      "lon": -3.20620,
+      "lon": -3.2062,
       "name": "The Antiquary",
       "address": "68-72 St Stephen Street, EH3 5AQ",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
       "camraID": 151829,
       "goodBeerID": 59685,
       "lat": 55.95051,
       "lon": -3.18884,
-      "name": " Arcade Haggis & Whisky House",
+      "name": "Arcade Haggis & Whisky House",
       "address": "48 Cockburn Street, EH1 1PB",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
       "camraID": 150112,
@@ -81,25 +97,31 @@
       "lon": -3.19154,
       "name": "Argyle Bar",
       "address": "15 Argyle Place, EH9 1JJ",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 151270,
       "goodBeerID": 59562,
-      "lat": 55.95750,
+      "lat": 55.9575,
       "lon": -3.16943,
       "name": "Artisan",
       "address": "35 London Road, EH7 5BQ",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 151574,
       "goodBeerID": 59630,
-      "lat": 55.93900,
+      "lat": 55.939,
       "lon": -3.22367,
       "name": "Athletics Arms (Diggers)",
       "address": "1-3 Angle Park Terrace, Edinburgh, EH11 2JX",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
       "camraID": 150477,
@@ -109,6 +131,8 @@
       "name": "Auld Hoose",
       "address": "23-25 St Leonards Street, EH8 9QN",
       "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true,
       "tempClosed": true
     },
     {
@@ -118,16 +142,20 @@
       "lon": -3.1994,
       "name": "Auld Hundred",
       "address": "100 Rose Street, EH2 2NN",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
       "camraID": 150795,
       "goodBeerID": 59451,
       "lat": 55.95752,
-      "lon": -3.20720,
+      "lon": -3.2072,
       "name": "The Bailie",
       "address": "2 St Stephen Street, EH3 5AL",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
       "camraID": 150852,
@@ -137,6 +165,8 @@
       "name": "Bannermans",
       "address": "212 Cowgate, EH1 1NQ",
       "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true,
       "tempClosed": true
     },
     {
@@ -146,7 +176,9 @@
       "lon": -3.18681,
       "name": "The Banshee Labyrinth",
       "address": "29-35 Niddry Street, EH1 1LG",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
       "camraID": 150927,
@@ -155,7 +187,9 @@
       "lon": -3.1895,
       "name": "Barony Bar",
       "address": "81-85 Broughton Street, EH1 3RJ",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
       "camraID": 151008,
@@ -165,116 +199,142 @@
       "name": "The Beehive Inn",
       "address": "18-20 Grassmarket, EH1 2JU",
       "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 80532,
       "camraID": 150353,
+      "goodBeerID": 80532,
       "lat": 55.95587,
       "lon": -3.16423,
       "name": "Bellfield Brewery Tap Room",
       "address": "46 Stanley Place, EH7 5TB",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59499,
       "camraID": 151034,
+      "goodBeerID": 59499,
       "lat": 55.94175,
       "lon": -3.20333,
       "name": "Bennets Bar",
       "address": "8 Leven Street, EH3 9LG",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59501,
       "camraID": 151046,
+      "goodBeerID": 59501,
       "lat": 55.92643,
       "lon": -3.20958,
       "name": "Bennets of Morningside",
       "address": "1 Maxwell Street, EH10 5HT",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59541,
       "camraID": 151185,
+      "goodBeerID": 59541,
       "lat": 55.9473,
       "lon": -3.1975,
       "name": "Black Bull",
       "address": "12 Grassmarket, EH1 2JU",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59663,
       "camraID": 151761,
+      "goodBeerID": 59663,
       "lat": 55.95163,
       "lon": -3.20369,
       "name": "Black Cat",
       "address": "168 Rose Street, EH2 4BA",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59564,
       "camraID": 151280,
-      "lat": 55.94590,
+      "goodBeerID": 59564,
+      "lat": 55.9459,
       "lon": -3.20319,
       "name": "Blue Blazer",
       "address": "2 Spittal Street, EH3 9DX",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 7,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 62885,
       "camraID": 151669,
+      "goodBeerID": 62885,
       "lat": 55.95176,
       "lon": -3.19154,
       "name": "The Booking Office",
       "address": "17 Waverley Bridge, EH1 1BQ",
       "realAles": 8,
+      "numBeers": 9,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
-      "goodBeerID": 59575,
       "camraID": 151312,
+      "goodBeerID": 59575,
       "lat": 55.94846,
       "lon": -3.19421,
       "name": "Bow Bar",
       "address": "80 West Bow, EH1 2HH",
-      "realAles": 8
+      "realAles": 8,
+      "numBeers": 8,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59436,
       "camraID": 150611,
+      "goodBeerID": 59436,
       "lat": 55.93687,
       "lon": -3.18064,
       "name": "Brass Monkey (The Grange)",
       "address": "1 Grange Road, EH9 1UH",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59358,
       "camraID": 150003,
+      "goodBeerID": 59358,
       "lat": 55.96402,
       "lon": -3.17771,
       "name": "Brass Monkey (Leith Walk)",
       "address": "362 Leith Walk, EH6 5BR",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59326,
       "camraID": 149944,
+      "goodBeerID": 59326,
       "lat": 55.94735,
       "lon": -3.18531,
       "name": "Brass Monkey (Southside)",
       "address": "14 Drummond Street, EH8 9TU",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59629,
       "camraID": 151568,
+      "goodBeerID": 59629,
       "lat": 55.94432,
       "lon": -3.20199,
       "name": "Lauri",
       "address": "105-107 Lauriston Place, EH3 9JG",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 149950,
@@ -283,199 +343,243 @@
       "lon": -3.16082,
       "name": "The Finch",
       "address": "2-4 Bath Road, EH6 7JT",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59620,
       "camraID": 151502,
+      "goodBeerID": 59620,
       "lat": 55.95386,
       "lon": -3.19058,
       "name": "Cafe Royal",
       "address": "19 West Register Street, EH2 2AA",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 74988,
       "camraID": 150287,
+      "goodBeerID": 74988,
       "lat": 55.94823,
       "lon": -3.20623,
       "name": "The Caley Picture House",
       "address": "31 Lothian Road, EH1 2DJ",
       "realAles": 6,
+      "numBeers": 8,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
-      "goodBeerID": 59559,
       "camraID": 151260,
+      "goodBeerID": 59559,
       "lat": 55.93764,
       "lon": -3.22579,
       "name": "Caley Sample Room",
       "address": "56 Angle Park Terrace, EH11 2JR",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59435,
       "camraID": 150552,
-      "lat": 55.95280,
+      "goodBeerID": 59435,
+      "lat": 55.9528,
       "lon": -3.20599,
       "name": "The Cambridge Bar",
       "address": "20 Young Street, EH2 4JB",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59509,
       "camraID": 151068,
+      "goodBeerID": 59509,
       "lat": 55.92758,
       "lon": -3.20927,
       "name": "Canny Man's",
       "address": "237 Morningside Road, EH10 4QU",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59561,
       "camraID": 151266,
+      "goodBeerID": 59561,
       "lat": 55.95084,
       "lon": -3.18246,
       "name": "The Canons' Gait",
       "address": "232 Canongate, EH8 8DQ",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59678,
       "camraID": 151814,
+      "goodBeerID": 59678,
       "lat": 55.94708,
       "lon": -3.18653,
       "name": "The Captain's Bar",
       "address": "4 South College Street, EH8 9AA",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59503,
       "camraID": 151050,
+      "goodBeerID": 59503,
       "lat": 55.97606,
       "lon": -3.16856,
       "name": "The Carriers Quarters",
       "address": "42 Bernard Street, EH6 6PR",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59568,
       "camraID": 151292,
+      "goodBeerID": 59568,
       "lat": 55.95912,
       "lon": -3.19047,
       "name": "Cask & Barrel (New Town)",
       "address": "115 Broughton Street, EH1 3RZ",
-      "realAles": 9
+      "realAles": 9,
+      "numBeers": 10,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59438,
       "camraID": 150692,
+      "goodBeerID": 59438,
       "lat": 55.93904,
       "lon": -3.18002,
       "name": "Cask & Barrel (Southside)",
       "address": "24-26 West Preston Street, EH8 9PZ",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 7,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59640,
       "camraID": 151610,
-      "lat": 55.94860,
+      "goodBeerID": 59640,
+      "lat": 55.9486,
       "lon": -3.19481,
       "name": "The Castle Arms",
       "address": "9 Johnstone Terrace, EH1 2PW",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59659,
       "camraID": 151737,
+      "goodBeerID": 59659,
       "lat": 55.96019,
-      "lon": -3.20100,
+      "lon": -3.201,
       "name": "Clark's Bar",
       "address": "142 Dundas Street, EH3 5DQ",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59578,
       "camraID": 151322,
+      "goodBeerID": 59578,
       "lat": 55.94323,
       "lon": -3.20199,
       "name": "Cloisters",
       "address": "26 Brougham Street, EH3 9JH",
-      "realAles": 10
+      "realAles": 10,
+      "numBeers": 10,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59670,
       "camraID": 151780,
+      "goodBeerID": 59670,
       "lat": 55.90739,
       "lon": -3.25609,
       "name": "Colinton Inn",
       "address": "12-14 Bridge Road, EH13 0LQ",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59611,
       "camraID": 151456,
+      "goodBeerID": 59611,
       "lat": 55.95653,
       "lon": -3.18792,
       "name": "The Conan Doyle",
       "address": "71-73 York Place, EH1 3JD",
-      "realAles": 7
+      "realAles": 7,
+      "numBeers": 7,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59635,
       "camraID": 151594,
+      "goodBeerID": 59635,
       "lat": 55.94061,
       "lon": -3.28332,
       "name": "Corstorphine Inn",
       "address": "17 Corstorphine High Street, EH12 7SU",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59683,
       "camraID": 151824,
+      "goodBeerID": 59683,
       "lat": 55.93484,
       "lon": -3.09454,
       "name": "Cuddie Brae",
       "address": "91 Newcraighall Road, EH21 8RX",
       "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59309,
       "camraID": 149914,
+      "goodBeerID": 59309,
       "lat": 55.959,
       "lon": -3.1972,
       "name": "The Cumberland Bar",
       "address": "1-3 Cumberland Street, EH3 6RT",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59303,
       "camraID": 149902,
+      "goodBeerID": 59303,
       "lat": 55.94214,
-      "lon": -3.18400,
+      "lon": -3.184,
       "name": "Dagda",
       "address": "93-95 Buccleuch Street, EH8 9NG",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59697,
       "camraID": 151853,
+      "goodBeerID": 59697,
       "lat": 55.94368,
       "lon": -3.05791,
       "name": "The David MacBeth Moir",
       "address": "Bridge Street, EH21 6AG",
       "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
-      "goodBeerID": 59312,
       "camraID": 149924,
+      "goodBeerID": 59312,
       "lat": 55.94951,
-      "lon": -3.19290,
+      "lon": -3.1929,
       "name": "Deacon Brodies Tavern",
       "address": "435 Lawnmarket, EH1 2NT",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
       "camraID": 151052,
@@ -484,71 +588,87 @@
       "lon": -3.20491,
       "name": "Dirty Dick's",
       "address": "159 Rose Street, EH2 4LS",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59316,
       "camraID": 149929,
+      "goodBeerID": 59316,
       "lat": 55.94547,
       "lon": -3.19086,
       "name": "Doctors",
       "address": "32 Forrest Road, EH1 2QN",
       "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59322,
       "camraID": 149939,
+      "goodBeerID": 59322,
       "lat": 55.95094,
       "lon": -3.19068,
       "name": "The Doric",
       "address": "15-16 Market Street, EH1 1DE",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 74695,
       "camraID": 150275,
+      "goodBeerID": 74695,
       "lat": 55.97893,
-      "lon": -3.18660,
+      "lon": -3.1866,
       "name": "Dreadnought",
       "address": "72 North Fort Street, EH6 4HL",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59338,
       "camraID": 149968,
+      "goodBeerID": 59338,
       "lat": 55.93802,
       "lon": -3.19301,
       "name": "The Earl of Marchmont",
       "address": "22 Marchmont Crescent, EH9 1HG",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59337,
       "camraID": 149967,
+      "goodBeerID": 59337,
       "lat": 55.94948,
       "lon": -3.22511,
       "name": "Edinburgh Sports Club",
       "address": "7 Belford Place, EH4 3DH",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59354,
       "camraID": 149992,
+      "goodBeerID": 59354,
       "lat": 55.94917,
       "lon": -3.19439,
       "name": "Ensign Ewart",
       "address": "521 Lawnmarket, EH1 2PE",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59336,
       "camraID": 149966,
+      "goodBeerID": 59336,
       "lat": 55.95486,
       "lon": -3.11062,
       "name": "The Esplanade",
       "address": "62 Bath Street, EH15 1HF",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
       "camraID": 151213,
@@ -556,390 +676,476 @@
       "lon": -3.19781,
       "name": "The Fiddlers Arms",
       "address": "11-13 Grassmarket, EH1 2HY",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 59689,
       "camraID": 151837,
+      "goodBeerID": 59689,
       "lat": 55.97053,
       "lon": -3.17129,
       "name": "Angel",
       "address": "183 Constitution Street, EH6 7AA",
-      "notes": "Previously: The Foot of the Walk",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "notes": "Previously: The Foot of the Walk"
     },
     {
-      "goodBeerID": 59386,
       "camraID": 150060,
+      "goodBeerID": 59386,
       "lat": 55.94607,
       "lon": -3.20348,
       "name": "Footlights",
       "address": "7-11 Spittal Street, EH3 9DY",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59378,
       "camraID": 150043,
+      "goodBeerID": 59378,
       "lat": 55.95509,
       "lon": -3.11795,
       "name": "Foresters Guild",
       "address": "40 Portobello High Street, EH15 1DA",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59660,
       "camraID": 151739,
+      "goodBeerID": 59660,
       "lat": 55.94038,
       "lon": -3.21806,
       "name": "The Fountain",
       "address": "127-131 Dundee Street, EH11 1AX",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 62816,
       "camraID": 151206,
+      "goodBeerID": 62816,
       "lat": 55.94806,
       "lon": -3.19173,
       "name": "George IV Bar",
       "address": "54 George IV Bridge, EH1 1EJ",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59403,
       "camraID": 150082,
+      "goodBeerID": 59403,
       "lat": 55.93905,
       "lon": -3.21868,
       "name": "Golden Rule",
       "address": "30 Yeaman Place, EH11 1BT",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59355,
       "camraID": 149995,
+      "goodBeerID": 59355,
       "lat": 55.96007,
       "lon": -3.21332,
       "name": "The Grange Cricket Club",
       "address": "Portgower Place, EH4 1HQ",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59422,
       "camraID": 150155,
+      "goodBeerID": 59422,
       "lat": 55.94688,
       "lon": -3.19142,
       "name": "Greyfriars Bobby",
       "address": "34 Candlemaker Row, EH1 2QE",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59423,
       "camraID": 150175,
-      "lat": 55.94980,
+      "goodBeerID": 59423,
+      "lat": 55.9498,
       "lon": -3.20925,
       "name": "The Grosvenor",
       "address": "26-28 Shandwick Place, EH2 4RT",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59424,
       "camraID": 150197,
+      "goodBeerID": 59424,
       "lat": 55.95366,
       "lon": -3.19004,
       "name": "Guildford Arms",
       "address": "1 West Register Street, EH2 2AA",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 10,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59425,
       "camraID": 150257,
+      "goodBeerID": 59425,
       "lat": 55.95099,
       "lon": -3.18889,
       "name": "Halfway House",
       "address": "24 Fleshmarket Close, EH1 1BX",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59427,
       "camraID": 150281,
-      "lat": 55.94550,
+      "goodBeerID": 59427,
+      "lat": 55.9455,
       "lon": -3.24291,
       "name": "Edinburgh Whisky House",
       "address": "14 Corstorphine Road, EH12 6HN",
-      "notes": "Previously: Hampton",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "notes": "Previously: Hampton"
     },
     {
-      "goodBeerID": 59363,
       "camraID": 150012,
+      "goodBeerID": 59363,
       "lat": 55.94551,
       "lon": -3.20525,
       "name": "The Hanging Bat",
       "address": "133 Lothian Road, EH3 9AB",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59672,
       "camraID": 1517950,
+      "goodBeerID": 59672,
       "lat": 55.98078,
       "lon": -3.19501,
       "name": "The Harbour Inn",
       "address": "4-6 Fishmarket Square, EH6 4LW",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 59429,
       "camraID": 150323,
+      "goodBeerID": 59429,
       "lat": 55.94635,
       "lon": -3.21628,
       "name": "Haymarket",
       "address": "11-14a West Maitland Street, EH12 5DS",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59645,
       "camraID": 151654,
+      "goodBeerID": 59645,
       "lat": 55.95093,
       "lon": -3.19078,
       "name": "Hebrides Market Street",
       "address": "17 Market Street, EH1 1DE",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59623,
       "camraID": 151508,
+      "goodBeerID": 59623,
       "lat": 55.94609,
-      "lon": -3.21350,
+      "lon": -3.2135,
       "name": "Hebrides West End",
       "address": "185 Morrison Street, EH3 8DZ",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59302,
       "camraID": 149901,
+      "goodBeerID": 59302,
       "lat": 55.95877,
       "lon": -3.20987,
       "name": "Hectors",
       "address": "47-49 Deanhaugh Street, EH4 1LR",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59583,
       "camraID": 151336,
+      "goodBeerID": 59583,
       "lat": 55.9246,
       "lon": -3.2097,
       "name": "The Hermitage",
       "address": "1-5 Comiston Road, EH10 6AA",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59432,
       "camraID": 150454,
+      "goodBeerID": 59432,
       "lat": 55.9023,
       "lon": -3.2208,
       "name": "Hunter's Tryst",
       "address": "97 Oxgangs Road, EH13 9NG",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59639,
       "camraID": 151608,
+      "goodBeerID": 59639,
       "lat": 55.95838,
       "lon": -3.183666,
       "name": "Jeremiah's Taproom",
       "address": "7-8 Elm Row, EH7 4AA",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59571,
       "camraID": 151300,
+      "goodBeerID": 59571,
       "lat": 55.9509,
       "lon": -3.1889,
       "name": "Jinglin' Geordie Bar",
       "address": "22 Fleshmarket Close, EH1 1BX",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59449,
       "camraID": 150785,
+      "goodBeerID": 59449,
       "lat": 55.933551,
       "lon": -3.177782,
       "name": "Leslie's",
       "address": "45-47 Ratcliffe Terrace, EH9 1SU",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 66285,
       "camraID": 150103,
+      "goodBeerID": 66285,
       "lat": 55.960618,
       "lon": -3.181291,
       "name": "Joker & the Thief",
       "address": "71 Elm Row, EH7 4AQ",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59437,
       "camraID": 150662,
+      "goodBeerID": 59437,
       "lat": 55.9495,
       "lon": -3.1939,
       "name": "Jolly Judge",
       "address": "7 James Court, EH1 2PB",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59439,
       "camraID": 150725,
+      "goodBeerID": 59439,
       "lat": 55.88836,
       "lon": -3.080268,
       "name": "The Justinlees",
       "address": "1-5 Dalhousie Road, EH22 3AT",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59440,
       "camraID": 150745,
+      "goodBeerID": 59440,
       "lat": 55.9557,
       "lon": -3.205,
       "name": "Kay's Bar",
       "address": "39 Jamaica Street West, EH3 6HF",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59441,
       "camraID": 150749,
+      "goodBeerID": 59441,
       "lat": 55.9518,
       "lon": -3.2023,
       "name": "The Kenilworth",
       "address": "152-154 Rose Street, EH2 3JD",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59443,
       "camraID": 150755,
+      "goodBeerID": 59443,
       "lat": 55.97616,
       "lon": -3.16964,
       "name": "King's Wark",
       "address": "36 The Shore, EH6 6QU",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59444,
       "camraID": 150761,
+      "goodBeerID": 59444,
       "lat": 55.902243,
       "lon": -3.288456,
       "name": "Kinleith Mill",
       "address": "604 Lanark Road, EH14 5EN",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59445,
       "camraID": 150768,
+      "goodBeerID": 59445,
       "lat": 55.883500794293,
       "lon": -3.115235626984,
       "name": "Laird & Dog Inn",
       "address": "5 High Street, EH18 1NA",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59446,
       "camraID": 150771,
+      "goodBeerID": 59446,
       "lat": 55.947825,
       "lon": -3.195273,
       "name": "The Last Drop",
       "address": "74-78 Grassmarket, EH1 2JR",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 85745,
       "camraID": 196867,
+      "goodBeerID": 85745,
       "lat": 55.951037808972,
       "lon": -3.18185364418,
       "name": "Mackays on the Mile",
       "address": "223 Canongate, EH8 8BJ",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59452,
       "camraID": 150804,
+      "goodBeerID": 59452,
       "lat": 55.9568,
       "lon": -3.1924,
       "name": "The Magnum",
       "address": "1 Albany Street, EH1 3PY",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59573,
       "camraID": 151306,
+      "goodBeerID": 59573,
       "lat": 55.975912,
       "lon": -3.169998,
       "name": "Malt & Hops",
       "address": "45 The Shore, EH6 6QU",
-      "realAles": 7
+      "realAles": 7,
+      "numBeers": 8,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59453,
       "camraID": 150807,
+      "goodBeerID": 59453,
       "lat": 55.950628391052,
       "lon": -3.190686210976,
       "name": "The Malt Shovel",
       "address": "11-15 Cockburn Street, EH1 1BP",
       "realAles": 3,
+      "numBeers": 4,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59455,
       "camraID": 150813,
+      "goodBeerID": 59455,
       "lat": 55.957116,
       "lon": -3.188061,
       "name": "Mather's Broughton Street",
       "address": "25 Broughton Street, EH1 3JU",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59594,
       "camraID": 151376,
+      "goodBeerID": 59594,
       "lat": 55.950274,
       "lon": -3.208684,
       "name": "Mathers West End",
       "address": "1 Queensferry Street, EH2 4PA",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59334,
       "camraID": 149963,
+      "goodBeerID": 59334,
       "lat": 55.895132,
       "lon": -3.096431,
       "name": "Melville Inn",
       "address": "By Dobbies Nursery, EH18 1AR",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59582,
       "camraID": 151334,
+      "goodBeerID": 59582,
       "lat": 55.9291,
       "lon": -3.2098,
       "name": "The Merlin",
       "address": "168 Morningside Road, EH10 4PU",
       "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59551,
       "camraID": 151229,
+      "goodBeerID": 59551,
       "lat": 55.9529,
       "lon": -3.1964,
       "name": "Milnes",
       "address": "35 Hanover Street, EH2 2PJ",
       "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59458,
       "camraID": 150828,
+      "goodBeerID": 59458,
       "lat": 55.950421,
       "lon": -3.186427,
       "name": "The Mitre",
       "address": "131 High Street, EH1 1SG",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
       "camraID": 150397,
@@ -947,7 +1153,9 @@
       "lon": -3.173928863754,
       "name": "Newbarns Brewery & Taproom",
       "address": "13 Jane Street, EH6 5HE",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
       "camraID": 149943,
@@ -955,135 +1163,165 @@
       "lon": -3.1952,
       "name": "Newhaven Quay",
       "address": "51-53 Newhaven Place, EH6 4TX",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 59484,
       "camraID": 150966,
+      "goodBeerID": 59484,
       "lat": 55.950686,
       "lon": -3.184406,
       "name": "No. 1 High Street",
       "address": "1 Jeffrey Street, EH1 1SR",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59622,
       "camraID": 151506,
+      "goodBeerID": 59622,
       "lat": 55.963,
       "lon": -3.1956,
       "name": "O'Connor's",
       "address": "2-4 Broughton Road, EH7 4EB",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59466,
       "camraID": 150867,
+      "goodBeerID": 59466,
       "lat": 55.9349,
       "lon": -3.179,
       "name": "Old Bell",
       "address": "233 Causewayside, EH9 1PH",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59467,
       "camraID": 150873,
+      "goodBeerID": 59467,
       "lat": 55.980016,
       "lon": -3.204311,
       "name": "Old Chain Pier",
       "address": "32 Trinity Crescent, EH5 3ED",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 84203,
       "camraID": 195304,
+      "goodBeerID": 84203,
       "lat": 55.96232970477,
       "lon": -3.170859708004,
       "name": "Old Eastway Tap",
       "address": "218 Easter Road, EH7 5QH",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59465,
       "camraID": 150862,
+      "goodBeerID": 59465,
       "lat": 55.96335,
       "lon": -3.200697,
       "name": "The Orchard",
       "address": "1 Howard Place, EH3 5JZ",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59469,
       "camraID": 150885,
+      "goodBeerID": 59469,
       "lat": 55.949133918842,
       "lon": -3.098640289688,
       "name": "The Ormelie",
       "address": "44 Joppa Road, EH15 2ET",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59567,
       "camraID": 151290,
+      "goodBeerID": 59567,
       "lat": 55.959021924043,
       "lon": -3.190824490738,
       "name": "The Ox",
       "address": "49-51 London Street, EH3 6LX",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59470,
       "camraID": 150888,
+      "goodBeerID": 59470,
       "lat": 55.95297,
       "lon": -3.204794,
       "name": "The Oxford Bar",
       "address": "8 Young Street, EH2 4JB",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59633,
       "camraID": 151586,
+      "goodBeerID": 59633,
       "lat": 55.968214790987,
       "lon": -3.16805405159,
       "name": "Persevere",
       "address": "398 Easter Road, Edinburgh, EH6 8HT",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59393,
       "camraID": 150068,
+      "goodBeerID": 59393,
       "lat": 55.946,
       "lon": -3.2185,
       "name": "Platform 5",
       "address": "8 Clifton Terrace, EH12 5DR",
       "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59693,
       "camraID": 151842,
+      "goodBeerID": 59693,
       "lat": 55.956484,
       "lon": -3.186,
       "name": "The Playfair",
       "address": "Omni Centre, EH1 3AA",
       "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
-      "goodBeerID": 59657,
       "camraID": 151727,
+      "goodBeerID": 59657,
       "lat": 55.9541,
       "lon": -3.1168,
       "name": "Portobello Tap",
       "address": "87 Portobello High Street, EH15 1AW",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59475,
       "camraID": 150933,
+      "goodBeerID": 59475,
       "lat": 55.9537,
       "lon": -3.2005,
       "name": "Queens Arms",
       "address": "49 Frederick Street, EH2 1EP",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 150945,
@@ -1092,125 +1330,153 @@
       "name": "The Railway Inn",
       "address": "542 Lanark Road, EH14 5EL",
       "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
       "notes": "Closed"
     },
     {
-      "goodBeerID": 59701,
       "camraID": 151863,
+      "goodBeerID": 59701,
       "lat": 55.95642,
       "lon": -3.172105,
       "name": "The Regent",
       "address": "2 Montrose Terrace, EH7 5DL",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59480,
       "camraID": 150951,
+      "goodBeerID": 59480,
       "lat": 55.896419533649,
       "lon": -3.309407288361,
       "name": "The Riccarton Inn",
       "address": "198 Lanark Road West, EH14 5NX",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59482,
       "camraID": 150957,
+      "goodBeerID": 59482,
       "lat": 55.963759135844,
       "lon": -3.177495393848,
       "name": "Robbie's Bar",
       "address": "367 Leith Walk, EH6 8SE",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59625,
       "camraID": 151538,
+      "goodBeerID": 59625,
       "lat": 55.9525,
       "lon": -3.1989,
       "name": "Rose St Brewery",
       "address": "55-57 Rose Street, EH2 2NH",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59648,
       "camraID": 151667,
+      "goodBeerID": 59648,
       "lat": 55.945375968143,
       "lon": -3.233838660049,
       "name": "Roseburn Bar",
       "address": "1 Roseburn Terrace, EH12 5NG",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59304,
       "camraID": 149903,
+      "goodBeerID": 59304,
       "lat": 55.976,
       "lon": -3.1735,
       "name": "Roseleaf",
       "address": "23-24 Sandport Place, EH6 6EW",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59375,
       "camraID": 150039,
+      "goodBeerID": 59375,
       "lat": 55.939935258044,
       "lon": -3.182427130355,
       "name": "The Royal Dick (Summerhall)",
       "address": "1 Summerhall, EH9 1PL",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59485,
       "camraID": 150975,
-      "lat": 55.9480,
+      "goodBeerID": 59485,
+      "lat": 55.948,
       "lon": -3.1862,
       "name": "The Royal Oak",
       "address": "1 Infirmary Street, EH1 1LT",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59597,
       "camraID": 151386,
+      "goodBeerID": 59597,
       "lat": 55.94583517787,
       "lon": -3.217377320099,
       "name": "Ryrie's",
       "address": "1 Haymarket Terrace, EH12 5EY",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59563,
       "camraID": 151272,
+      "goodBeerID": 59563,
       "lat": 55.957199376024,
       "lon": -3.167698748341,
       "name": "The Safari Lounge",
       "address": "21 Cadzow Place, EH7 5SN",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59585,
       "camraID": 151350,
+      "goodBeerID": 59585,
       "lat": 55.9383,
       "lon": -3.174,
       "name": "The Salisbury Arms",
       "address": "58 Dalkeith Road, EH16 5AD",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 80462,
       "camraID": 150351,
+      "goodBeerID": 80462,
       "lat": 55.949243,
       "lon": -3.185469,
       "name": "Salt Horse",
       "address": "57-61 Blackfriars Street, EH1 1NB",
       "realAles": 0,
+      "numBeers": 10,
+      "hasRealAle": true,
       "notes": "Listed in GBG but no cask real-ale"
     },
     {
-      "goodBeerID": 59549,
       "camraID": 151219,
+      "goodBeerID": 59549,
       "lat": 55.946068,
       "lon": -3.19128,
       "name": "Sandy Bell's",
       "address": "25 Forrest Road, EH1 2QH",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
       "camraID": 149928,
@@ -1218,53 +1484,65 @@
       "lon": -3.1884,
       "name": "Scotsman's Lounge",
       "address": "73 Cockburn Street, EH1 1BU",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 59487,
       "camraID": 150984,
+      "goodBeerID": 59487,
       "lat": 55.955448,
       "lon": -3.140574,
       "name": "The Scottie",
       "address": "100 Northfield Broadway, EH8 7RU",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59370,
       "camraID": 150032,
+      "goodBeerID": 59370,
       "lat": 55.9591,
       "lon": -3.2146,
       "name": "The Scran & Scallie",
       "address": "1 Comely Bank Road, EH4 1DT",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59576,
       "camraID": 151316,
+      "goodBeerID": 59576,
       "lat": 55.947579,
       "lon": -3.205833,
       "name": "Shakespeares",
       "address": "65 Lothian Road, EH1 2DJ",
       "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59488,
       "camraID": 150996,
+      "goodBeerID": 59488,
       "lat": 55.942001720352,
       "lon": -3.148468628311,
       "name": "Sheep Heid",
       "address": "43 The Causeway, EH15 3QA",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59626,
       "camraID": 151548,
+      "goodBeerID": 59626,
       "lat": 55.97748,
       "lon": -3.169036,
       "name": "The Shore",
       "address": "3 The Shore, EH6 6QW",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
       "camraID": 151010,
@@ -1272,61 +1550,75 @@
       "lon": -3.1836,
       "name": "The Southsider",
       "address": "3-7 West Richmond Street, EH8 9EF",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 59486,
       "camraID": 150978,
+      "goodBeerID": 59486,
       "lat": 55.90768,
       "lon": -3.258203,
       "name": "The Spylaw",
       "address": "27 Spylaw Street, EH13 0JT",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 62712,
       "camraID": 149910,
+      "goodBeerID": 62712,
       "lat": 55.958975,
       "lon": -3.210319,
       "name": "St Bernard's Bar",
       "address": "10 Raeburn Place, EH4 1HN",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59494,
       "camraID": 151016,
+      "goodBeerID": 59494,
       "lat": 55.957982,
       "lon": -3.203427,
       "name": "St Vincent",
       "address": "11 St Vincent Street, EH3 6SW",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59495,
       "camraID": 151018,
+      "goodBeerID": 59495,
       "lat": 55.903693,
       "lon": -3.181594,
       "name": "The Stable Bar",
       "address": "50 Mortonhall Gate, EH16 6TJ",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59510,
       "camraID": 151070,
+      "goodBeerID": 59510,
       "lat": 55.944151,
       "lon": -3.057204,
       "name": "Staggs",
       "address": "81 North High Street, EH21 6JE",
-      "realAles": 8
+      "realAles": 8,
+      "numBeers": 8,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59669,
       "camraID": 151778,
+      "goodBeerID": 59669,
       "lat": 55.9529,
       "lon": -3.1996,
       "name": "The Standing Order",
       "address": "62-66 George Street, EH2 2LR",
       "realAles": 9,
+      "numBeers": 12,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -1335,26 +1627,32 @@
       "lon": -3.1958,
       "name": "Star Bar",
       "address": "1 Northumberland Place, EH3 6LQ",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 59497,
       "camraID": 151030,
+      "goodBeerID": 59497,
       "lat": 55.979828,
       "lon": -3.202055,
       "name": "Starbank Inn",
       "address": "64 Laverockbank Road, EH5 3BZ",
       "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59498,
       "camraID": 151032,
+      "goodBeerID": 59498,
       "lat": 55.89068,
       "lon": -3.20108,
       "name": "The Steading",
       "address": "118-120 Biggar Road, EH10 7DU",
       "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
       "tempClosed": true
     },
     {
@@ -1364,142 +1662,174 @@
       "name": "Steel Coulson (Shore)",
       "address": "38 Bernard Street, EH6 6PR",
       "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
       "notes": "Closed"
     },
     {
-      "goodBeerID": 59457,
       "camraID": 150826,
+      "goodBeerID": 59457,
       "lat": 55.9376,
       "lon": -3.181,
       "name": "Steel Coulson (Southside)",
       "address": "114 Causewayside, EH9 1PU",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59311,
       "camraID": 149922,
+      "goodBeerID": 59311,
       "lat": 55.872318,
       "lon": -3.16149,
       "name": "Stewart Brewing Taproom",
       "address": "26a Dryden Road, EH20 9LZ",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59524,
       "camraID": 151125,
+      "goodBeerID": 59524,
       "lat": 55.958896,
       "lon": -3.209958,
       "name": "The Stockbridge Tap",
       "address": "2-4 Raeburn Place, EH4 1HN",
-      "realAles": 6
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 67534,
       "camraID": 150109,
+      "goodBeerID": 67534,
       "lat": 55.94865,
       "lon": -3.18778,
       "name": "Stramash!",
       "address": "207 Cowgate, EH1 1JQ",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59610,
       "camraID": 151444,
+      "goodBeerID": 59610,
       "lat": 55.9072,
       "lon": -3.2745,
       "name": "Tanners",
       "address": "459 Lanark Road, EH14 5BA",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59595,
       "camraID": 151378,
+      "goodBeerID": 59595,
       "lat": 55.949352820226,
       "lon": -3.212346004963,
       "name": "Teuchters (West End)",
       "address": "26 William Street, EH3 7NH",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59513,
       "camraID": 151077,
+      "goodBeerID": 59513,
       "lat": 55.977464,
       "lon": -3.171407,
       "name": "Teuchters Landing",
       "address": "1C Dock Place, EH6 6LU",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59565,
       "camraID": 151282,
+      "goodBeerID": 59565,
       "lat": 55.957201,
       "lon": -3.185044,
       "name": "Theatre Royal",
       "address": "25-27 Greenside Place, EH1 3AA",
-      "realAles": 5
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59305,
       "camraID": 149904,
+      "goodBeerID": 59305,
       "lat": 55.954062,
       "lon": -3.198889,
       "name": "Thistle Street Bar",
       "address": "39 Thistle Street, EH2 1DY",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59530,
       "camraID": 151145,
+      "goodBeerID": 59530,
       "lat": 55.946223719648,
       "lon": -3.212296402447,
       "name": "Thomson's Bar",
       "address": "182-184 Morrison Street, EH3 8EB",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59655,
       "camraID": 151719,
+      "goodBeerID": 59655,
       "lat": 55.9537,
       "lon": -3.192,
       "name": "Tiles Bistro Bar",
       "address": "1 St Andrew Sqaure, EH2 2BD",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59634,
       "camraID": 151590,
+      "goodBeerID": 59634,
       "lat": 55.9431,
       "lon": -3.2839,
       "name": "Toby Carvery (Corstorphine)",
       "address": "114-116 St John's Road, EH12 8AX",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59332,
       "camraID": 149961,
+      "goodBeerID": 59332,
       "lat": 55.9515,
       "lon": -3.1805,
       "name": "Tolbooth Tavern",
       "address": "167 Canongate, EH8 8BN",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59614,
       "camraID": 151462,
+      "goodBeerID": 59614,
       "lat": 55.925253,
       "lon": -3.210454,
       "name": "The Waiting Room",
       "address": "7 Belhaven Terrace, EH10 5HZ",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59512,
       "camraID": 151075,
+      "goodBeerID": 59512,
       "lat": 55.9568,
       "lon": -3.1986,
       "name": "The Wally Dug",
       "address": "32 Northumberland Street, EH3 6LS",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
       "camraID": 150335,
@@ -1508,43 +1838,53 @@
       "name": "Westgate Farm",
       "address": "55 South Gyle Broadway, EH12 9LR",
       "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
       "chain": "Greene King"
     },
     {
-      "goodBeerID": 59592,
       "camraID": 151370,
+      "goodBeerID": 59592,
       "lat": 55.950867,
       "lon": -3.207927,
       "name": "Whighams Wine Cellars",
       "address": "13 Hope Street, EH2 4EL",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59632,
       "camraID": 151582,
+      "goodBeerID": 59632,
       "lat": 55.9499,
       "lon": -3.1873,
       "name": "Whistle Binkies",
       "address": "4-6 South Bridge, EH1 1LL",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59644,
       "camraID": 151644,
+      "goodBeerID": 59644,
       "lat": 55.94749,
       "lon": -3.196686,
       "name": "The White Hart Inn",
       "address": "34 Grassmarket, EH1 2JU",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59599,
       "camraID": 151396,
+      "goodBeerID": 59599,
       "lat": 55.943,
       "lon": -3.2822,
       "name": "The White Lady",
       "address": "92-98 St John's Road, EH12 8AT",
-      "realAles": 8
+      "realAles": 8,
+      "numBeers": 8,
+      "hasRealAle": true
     },
     {
       "camraID": 151470,
@@ -1552,25 +1892,31 @@
       "lon": -3.0494457376933615,
       "name": "The Willow on High Street",
       "address": "83 High Street, EH21 7DA",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 59572,
       "camraID": 151302,
+      "goodBeerID": 59572,
       "lat": 55.9599,
       "lon": -3.1823,
       "name": "The Windsor",
       "address": "45 Elm Row, EH7 4AH",
-      "realAles": 4
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59600,
       "camraID": 151398,
+      "goodBeerID": 59600,
       "lat": 55.942115,
       "lon": -3.281396,
       "name": "Winstons",
       "address": "20 Kirk Loan, EH12 7HD",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 151683,
@@ -1578,7 +1924,9 @@
       "lon": -3.304917202377,
       "name": "Woodhall Arms",
       "address": "135 Lanark Road West, EH14 5NZ",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
       "camraID": 150031,
@@ -1586,107 +1934,131 @@
       "lon": -3.175837550926,
       "name": "Satyr",
       "address": "260-262 Leith Walk, EH6 5EL",
-      "notes": "Previously Woodland Creatures",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
+      "notes": "Previously Woodland Creatures"
     },
     {
-      "goodBeerID": 59569,
       "camraID": 151296,
+      "goodBeerID": 59569,
       "lat": 55.9505,
       "lon": -3.1843,
       "name": "The World's End",
       "address": "2-8 High Street, EH1 1TB",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59468,
       "camraID": 150879,
+      "goodBeerID": 59468,
       "lat": 55.9657,
       "lon": -3.2729,
       "name": "Ye Olde Inn",
       "address": "25 Main Street, EH4 5BZ",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 62768,
       "camraID": 150882,
+      "goodBeerID": 62768,
       "lat": 55.954247,
       "lon": -3.187352,
       "name": "The Penny Black",
       "address": "43-45 Leith Street, Edinburgh, EH1 3BH",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 62867,
       "camraID": 151570,
+      "goodBeerID": 62867,
       "lat": 55.952743,
       "lon": -3.197724,
       "name": "Robertson's 37 Bar",
       "address": "37 Rose Street, Edinburgh, EH2 2NH",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59646,
       "camraID": 151657,
+      "goodBeerID": 59646,
       "lat": 55.950398,
       "lon": -3.186765,
       "name": "Royal Mile",
       "address": "127 High Street, Edinburgh, EH1 1SG",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59687,
       "camraID": 151832,
+      "goodBeerID": 59687,
       "lat": 55.951445,
       "lon": -3.205312,
       "name": "Fierce Beer",
       "address": "167 Rose St., Edinburgh, EH2 4LS",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59579,
       "camraID": 151324,
+      "goodBeerID": 59579,
       "lat": 55.942381,
       "lon": -3.201171,
       "name": "Seamus's Pub",
       "address": "15 Brougham Place, Edinburgh, EH3 9JX",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 62753,
       "camraID": 150079,
+      "goodBeerID": 62753,
       "lat": 55.962014,
       "lon": -3.179437,
       "name": "Otherworld Bar & Kitchen",
       "address": "17 Albert Place, Edinburgh, EH7 5HN",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59658,
       "camraID": 151733,
+      "goodBeerID": 59658,
       "lat": 55.940358,
       "lon": -3.203689,
       "name": "Belfry",
       "address": "1-3 Barclay Place, Edinburgh, EH10 4HW",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 76677,
       "camraID": 150329,
+      "goodBeerID": 76677,
       "lat": 55.971064,
       "lon": -3.177726,
       "name": "Campervan Brewery Tap & Shop",
       "address": "112 Jane Street, Edinburgh, EH6 5HG",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59695,
       "camraID": 151849,
+      "goodBeerID": 59695,
       "lat": 55.967409,
       "lon": -3.174786,
       "name": "Volley Leith",
       "address": "180-182 Leith Walk, Edinburgh, EH6 5EA",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
       "camraID": 151695,
@@ -1694,115 +2066,141 @@
       "lon": -3.173319,
       "name": "Mother Superior",
       "address": "96-98 Leith Walk, Edinburgh, EH6 5HB",
-      "realAles": 0
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
-      "goodBeerID": 62933,
       "camraID": 151811,
+      "goodBeerID": 62933,
       "lat": 55.96424,
       "lon": -3.193038,
       "name": "Powder Room Bar",
       "address": "97-99 Broughton Road, Edinburgh, EH7 4EG",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 82671,
       "camraID": 150575,
+      "goodBeerID": 82671,
       "lat": 55.971101,
       "lon": -3.170468,
       "name": "False Widow",
       "address": "159 Constitution Street, Edinburgh, EH6 7AD",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59464,
       "camraID": 150859,
+      "goodBeerID": 59464,
       "lat": 55.974851,
       "lon": -3.167203,
       "name": "Nobles by Bellfield",
       "address": "44a Constitution Street, Edinburgh, EH6 6RS",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59647,
       "camraID": 151661,
+      "goodBeerID": 59647,
       "lat": 55.97528,
       "lon": -3.16716,
       "name": "Diggers Leith",
       "address": "7 Bernard Street, Edinburgh, EH6 6PW",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59463,
       "camraID": 150856,
+      "goodBeerID": 59463,
       "lat": 55.956024,
       "lon": -3.40231,
       "name": "Newliston Arms",
       "address": "78-82 Main Street, Kirkliston, EH29 9AB",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59601,
       "camraID": 151402,
+      "goodBeerID": 59601,
       "lat": 55.92326,
       "lon": -3.37881,
       "name": "Bridge Inn",
       "address": "27 Baird Road, Ratho, EH28 8RU",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59421,
       "camraID": 150145,
+      "goodBeerID": 59421,
       "lat": 55.883999,
       "lon": -3.339004,
       "name": "Grey Horse",
       "address": "20 Main Street, Balerno, EH14 7EH",
-      "realAles": 3
+      "realAles": 3,
+      "numBeers": 5,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 62913,
       "camraID": 151773,
+      "goodBeerID": 62913,
       "lat": 55.86883,
       "lon": -3.06879,
       "name": "Dean Tavern",
       "address": "80 Main Street, Newtongrange, EH22 4NA",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59649,
       "camraID": 151681,
+      "goodBeerID": 59649,
       "lat": 55.872732,
       "lon": -3.078114,
       "name": "Sun Inn",
       "address": "Lothianbridge, EH22 4TR",
-      "realAles": 1
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 77033,
       "camraID": 150333,
+      "goodBeerID": 77033,
       "lat": 55.883676,
       "lon": -3.082222,
       "name": "Cross Border Brewery Shop & Taproom",
       "address": "28/1 Hardengreen Industrial Estate, Eskbank, EH22 3NX",
-      "realAles": 10
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 87118,
       "camraID": 198262,
+      "goodBeerID": 87118,
       "lat": 55.895264,
       "lon": -3.068114,
       "name": "Coach & Horses",
       "address": "166-168 High Street, Dalkeith, EH22 1AY",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     },
     {
-      "goodBeerID": 59450,
       "camraID": 150789,
+      "goodBeerID": 59450,
       "lat": 55.944737,
       "lon": -3.025902,
       "name": "Levenhall Arms",
       "address": "10 Ravensheugh Road, Musselburgh, EH21 7PP",
-      "realAles": 2
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     }
   ]
 }
