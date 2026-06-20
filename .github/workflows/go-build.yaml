@@ -40,4 +40,4 @@ jobs:
           GOARCH: amd64
           CGO_ENABLED: 0
         run: |
-          go build -o build -trimpath -buildvcs=false -ldflags="-w -s" ./scripts/check-gbg
+          go build -o build -trimpath -buildvcs=false -ldflags="-w -s" ./scripts/check-data

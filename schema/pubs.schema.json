@@ -36,6 +36,12 @@
             "type": "number",
             "maximum": 10
           },
+          "numBeers": {
+            "type": "number"
+          },
+          "hasCaskAle": {
+            "type": "boolean"
+          },
           "notes": {
             "description": "Additional notes",
             "type": "string"

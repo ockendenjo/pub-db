@@ -1,7 +1,8 @@
 package types
 
 type PubsFile struct {
-	Pubs []*Pub `json:"pubs"`
+	Schema string `json:"$schema"`
+	Pubs   []*Pub `json:"pubs"`
 }
 
 type Pub struct {
@@ -12,6 +13,8 @@ type Pub struct {
 	Name       string  `json:"name"`
 	Address    string  `json:"address"`
 	RealAles   int     `json:"realAles"`
+	NumBeers   int     `json:"numBeers"`
+	HasCaskAle bool    `json:"hasCaskAle"`
 	Notes      *string `json:"notes,omitempty"`
 	Chain      *string `json:"chain,omitempty"`
 	TempClosed bool    `json:"tempClosed,omitzero"`
