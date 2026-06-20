@@ -1464,7 +1464,7 @@
       "address": "57-61 Blackfriars Street, EH1 1NB",
       "realAles": 0,
       "numBeers": 10,
-      "hasRealAle": true,
+      "hasRealAle": false,
       "notes": "Listed in GBG but no cask real-ale"
     },
     {
@@ -2174,11 +2174,11 @@
       "goodBeerID": 77033,
       "lat": 55.883676,
       "lon": -3.082222,
-      "name": "Cross Border Brewery Shop & Taproom",
+      "name": "Eskbank Brewing Co Taproom",
       "address": "28/1 Hardengreen Industrial Estate, Eskbank, EH22 3NX",
       "realAles": 0,
       "numBeers": 0,
-      "hasRealAle": true
+      "hasRealAle": false
     },
     {
       "camraID": 198262,
