@@ -43,13 +43,11 @@ func main() {
 	errLog := log.New(os.Stderr, "", 0)
 
 	for _, pub := range pf.Pubs {
-		if false {
-			err = c.checkPub(pub)
-			if err != nil {
-				errLog.Printf("%s %s\n", pub.Name, err.Error())
-			}
-			time.Sleep(1 * time.Second)
+		err = c.checkPub(pub)
+		if err != nil {
+			errLog.Printf("%s %s\n", pub.Name, err.Error())
 		}
+		time.Sleep(1 * time.Second)
 	}
 
 	if err = f.Truncate(0); err != nil {
