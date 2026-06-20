@@ -33,10 +33,12 @@
             "type": "string"
           },
           "realAles": {
+            "description": "Number of real ales as reported from surveys",
             "type": "number",
             "maximum": 10
           },
           "numBeers": {
+            "description": "Number of regular and changing beers, as reported by CAMRA",
             "type": "number"
           },
           "hasCaskAle": {
