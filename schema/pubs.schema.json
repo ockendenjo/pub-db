@@ -41,7 +41,7 @@
             "description": "Number of regular and changing beers, as reported by CAMRA",
             "type": "number"
           },
-          "hasCaskAle": {
+          "hasRealAle": {
             "type": "boolean"
           },
           "notes": {

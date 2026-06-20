@@ -115,9 +115,9 @@ func (c *checker) checkPub(pub *types.Pub) error {
 
 func updateCaskStatus(pub *types.Pub, urlStr string, b []byte) error {
 	hasCask := bytes.ContainsAny(b, caskStr)
-	if hasCask != pub.HasCaskAle {
-		fmt.Printf("%s | %s: hasCask %t->%t\n", urlStr, pub.Name, pub.HasCaskAle, hasCask)
-		pub.HasCaskAle = hasCask
+	if hasCask != pub.HasRealAle {
+		fmt.Printf("%s | %s: hasCask %t->%t\n", urlStr, pub.Name, pub.HasRealAle, hasCask)
+		pub.HasRealAle = hasCask
 	}
 	return nil
 }

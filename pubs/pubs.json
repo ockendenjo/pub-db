@@ -10,7 +10,7 @@
       "address": "65 South Clerk Street, EH8 9PP",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151264,
@@ -21,7 +21,7 @@
       "address": "3-5 Rose Street, EH2 2PR",
       "realAles": 6,
       "numBeers": 7,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151792,
@@ -32,7 +32,7 @@
       "address": "7 Hunter Square, EH1 1QW",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151006,
@@ -43,7 +43,7 @@
       "address": "197 High Street, EH1 1PE",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149982,
@@ -54,7 +54,7 @@
       "address": "126-128 George Street, EH2 4JZ",
       "realAles": 7,
       "numBeers": 7,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -66,7 +66,7 @@
       "address": "22-26 Castle Street, EH2 4LS",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150034,
@@ -77,7 +77,7 @@
       "address": "68-72 St Stephen Street, EH3 5AQ",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151829,
@@ -88,7 +88,7 @@
       "address": "48 Cockburn Street, EH1 1PB",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150112,
@@ -99,7 +99,7 @@
       "address": "15 Argyle Place, EH9 1JJ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151270,
@@ -110,7 +110,7 @@
       "address": "35 London Road, EH7 5BQ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151574,
@@ -121,7 +121,7 @@
       "address": "1-3 Angle Park Terrace, Edinburgh, EH11 2JX",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150477,
@@ -132,7 +132,7 @@
       "address": "23-25 St Leonards Street, EH8 9QN",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "tempClosed": true
     },
     {
@@ -144,7 +144,7 @@
       "address": "100 Rose Street, EH2 2NN",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150795,
@@ -155,7 +155,7 @@
       "address": "2 St Stephen Street, EH3 5AL",
       "realAles": 3,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150852,
@@ -166,7 +166,7 @@
       "address": "212 Cowgate, EH1 1NQ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "tempClosed": true
     },
     {
@@ -178,7 +178,7 @@
       "address": "29-35 Niddry Street, EH1 1LG",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150927,
@@ -189,7 +189,7 @@
       "address": "81-85 Broughton Street, EH1 3RJ",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151008,
@@ -200,7 +200,7 @@
       "address": "18-20 Grassmarket, EH1 2JU",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -212,7 +212,7 @@
       "address": "46 Stanley Place, EH7 5TB",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151034,
@@ -223,7 +223,7 @@
       "address": "8 Leven Street, EH3 9LG",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151046,
@@ -234,7 +234,7 @@
       "address": "1 Maxwell Street, EH10 5HT",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151185,
@@ -245,7 +245,7 @@
       "address": "12 Grassmarket, EH1 2JU",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151761,
@@ -256,7 +256,7 @@
       "address": "168 Rose Street, EH2 4BA",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151280,
@@ -267,7 +267,7 @@
       "address": "2 Spittal Street, EH3 9DX",
       "realAles": 6,
       "numBeers": 7,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151669,
@@ -278,7 +278,7 @@
       "address": "17 Waverley Bridge, EH1 1BQ",
       "realAles": 8,
       "numBeers": 9,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -290,7 +290,7 @@
       "address": "80 West Bow, EH1 2HH",
       "realAles": 8,
       "numBeers": 8,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150611,
@@ -301,7 +301,7 @@
       "address": "1 Grange Road, EH9 1UH",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150003,
@@ -312,7 +312,7 @@
       "address": "362 Leith Walk, EH6 5BR",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149944,
@@ -323,7 +323,7 @@
       "address": "14 Drummond Street, EH8 9TU",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151568,
@@ -334,7 +334,7 @@
       "address": "105-107 Lauriston Place, EH3 9JG",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149950,
@@ -345,7 +345,7 @@
       "address": "2-4 Bath Road, EH6 7JT",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151502,
@@ -356,7 +356,7 @@
       "address": "19 West Register Street, EH2 2AA",
       "realAles": 5,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150287,
@@ -367,7 +367,7 @@
       "address": "31 Lothian Road, EH1 2DJ",
       "realAles": 6,
       "numBeers": 8,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -379,7 +379,7 @@
       "address": "56 Angle Park Terrace, EH11 2JR",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150552,
@@ -390,7 +390,7 @@
       "address": "20 Young Street, EH2 4JB",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151068,
@@ -401,7 +401,7 @@
       "address": "237 Morningside Road, EH10 4QU",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151266,
@@ -412,7 +412,7 @@
       "address": "232 Canongate, EH8 8DQ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151814,
@@ -423,7 +423,7 @@
       "address": "4 South College Street, EH8 9AA",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151050,
@@ -434,7 +434,7 @@
       "address": "42 Bernard Street, EH6 6PR",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151292,
@@ -445,7 +445,7 @@
       "address": "115 Broughton Street, EH1 3RZ",
       "realAles": 9,
       "numBeers": 10,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150692,
@@ -456,7 +456,7 @@
       "address": "24-26 West Preston Street, EH8 9PZ",
       "realAles": 6,
       "numBeers": 7,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151610,
@@ -467,7 +467,7 @@
       "address": "9 Johnstone Terrace, EH1 2PW",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151737,
@@ -478,7 +478,7 @@
       "address": "142 Dundas Street, EH3 5DQ",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151322,
@@ -489,7 +489,7 @@
       "address": "26 Brougham Street, EH3 9JH",
       "realAles": 10,
       "numBeers": 10,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151780,
@@ -500,7 +500,7 @@
       "address": "12-14 Bridge Road, EH13 0LQ",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151456,
@@ -511,7 +511,7 @@
       "address": "71-73 York Place, EH1 3JD",
       "realAles": 7,
       "numBeers": 7,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151594,
@@ -522,7 +522,7 @@
       "address": "17 Corstorphine High Street, EH12 7SU",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151824,
@@ -533,7 +533,7 @@
       "address": "91 Newcraighall Road, EH21 8RX",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -545,7 +545,7 @@
       "address": "1-3 Cumberland Street, EH3 6RT",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149902,
@@ -556,7 +556,7 @@
       "address": "93-95 Buccleuch Street, EH8 9NG",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151853,
@@ -567,7 +567,7 @@
       "address": "Bridge Street, EH21 6AG",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -579,7 +579,7 @@
       "address": "435 Lawnmarket, EH1 2NT",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151052,
@@ -590,7 +590,7 @@
       "address": "159 Rose Street, EH2 4LS",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149929,
@@ -601,7 +601,7 @@
       "address": "32 Forrest Road, EH1 2QN",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -613,7 +613,7 @@
       "address": "15-16 Market Street, EH1 1DE",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150275,
@@ -624,7 +624,7 @@
       "address": "72 North Fort Street, EH6 4HL",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149968,
@@ -635,7 +635,7 @@
       "address": "22 Marchmont Crescent, EH9 1HG",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149967,
@@ -646,7 +646,7 @@
       "address": "7 Belford Place, EH4 3DH",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149992,
@@ -657,7 +657,7 @@
       "address": "521 Lawnmarket, EH1 2PE",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149966,
@@ -668,7 +668,7 @@
       "address": "62 Bath Street, EH15 1HF",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151213,
@@ -678,7 +678,7 @@
       "address": "11-13 Grassmarket, EH1 2HY",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 151837,
@@ -689,7 +689,7 @@
       "address": "183 Constitution Street, EH6 7AA",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "notes": "Previously: The Foot of the Walk"
     },
     {
@@ -701,7 +701,7 @@
       "address": "7-11 Spittal Street, EH3 9DY",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150043,
@@ -712,7 +712,7 @@
       "address": "40 Portobello High Street, EH15 1DA",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151739,
@@ -723,7 +723,7 @@
       "address": "127-131 Dundee Street, EH11 1AX",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151206,
@@ -734,7 +734,7 @@
       "address": "54 George IV Bridge, EH1 1EJ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150082,
@@ -745,7 +745,7 @@
       "address": "30 Yeaman Place, EH11 1BT",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149995,
@@ -756,7 +756,7 @@
       "address": "Portgower Place, EH4 1HQ",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150155,
@@ -767,7 +767,7 @@
       "address": "34 Candlemaker Row, EH1 2QE",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150175,
@@ -778,7 +778,7 @@
       "address": "26-28 Shandwick Place, EH2 4RT",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150197,
@@ -789,7 +789,7 @@
       "address": "1 West Register Street, EH2 2AA",
       "realAles": 6,
       "numBeers": 10,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150257,
@@ -800,7 +800,7 @@
       "address": "24 Fleshmarket Close, EH1 1BX",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150281,
@@ -811,7 +811,7 @@
       "address": "14 Corstorphine Road, EH12 6HN",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "notes": "Previously: Hampton"
     },
     {
@@ -823,7 +823,7 @@
       "address": "133 Lothian Road, EH3 9AB",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 1517950,
@@ -834,7 +834,7 @@
       "address": "4-6 Fishmarket Square, EH6 4LW",
       "realAles": 2,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 150323,
@@ -845,7 +845,7 @@
       "address": "11-14a West Maitland Street, EH12 5DS",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151654,
@@ -856,7 +856,7 @@
       "address": "17 Market Street, EH1 1DE",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151508,
@@ -867,7 +867,7 @@
       "address": "185 Morrison Street, EH3 8DZ",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149901,
@@ -878,7 +878,7 @@
       "address": "47-49 Deanhaugh Street, EH4 1LR",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151336,
@@ -889,7 +889,7 @@
       "address": "1-5 Comiston Road, EH10 6AA",
       "realAles": 2,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150454,
@@ -900,7 +900,7 @@
       "address": "97 Oxgangs Road, EH13 9NG",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151608,
@@ -911,7 +911,7 @@
       "address": "7-8 Elm Row, EH7 4AA",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151300,
@@ -922,7 +922,7 @@
       "address": "22 Fleshmarket Close, EH1 1BX",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150785,
@@ -933,7 +933,7 @@
       "address": "45-47 Ratcliffe Terrace, EH9 1SU",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150103,
@@ -944,7 +944,7 @@
       "address": "71 Elm Row, EH7 4AQ",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150662,
@@ -955,7 +955,7 @@
       "address": "7 James Court, EH1 2PB",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150725,
@@ -966,7 +966,7 @@
       "address": "1-5 Dalhousie Road, EH22 3AT",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150745,
@@ -977,7 +977,7 @@
       "address": "39 Jamaica Street West, EH3 6HF",
       "realAles": 4,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150749,
@@ -988,7 +988,7 @@
       "address": "152-154 Rose Street, EH2 3JD",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150755,
@@ -999,7 +999,7 @@
       "address": "36 The Shore, EH6 6QU",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150761,
@@ -1010,7 +1010,7 @@
       "address": "604 Lanark Road, EH14 5EN",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150768,
@@ -1021,7 +1021,7 @@
       "address": "5 High Street, EH18 1NA",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150771,
@@ -1032,7 +1032,7 @@
       "address": "74-78 Grassmarket, EH1 2JR",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 196867,
@@ -1043,7 +1043,7 @@
       "address": "223 Canongate, EH8 8BJ",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150804,
@@ -1054,7 +1054,7 @@
       "address": "1 Albany Street, EH1 3PY",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151306,
@@ -1065,7 +1065,7 @@
       "address": "45 The Shore, EH6 6QU",
       "realAles": 7,
       "numBeers": 8,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150807,
@@ -1076,7 +1076,7 @@
       "address": "11-15 Cockburn Street, EH1 1BP",
       "realAles": 3,
       "numBeers": 4,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -1088,7 +1088,7 @@
       "address": "25 Broughton Street, EH1 3JU",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151376,
@@ -1099,7 +1099,7 @@
       "address": "1 Queensferry Street, EH2 4PA",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149963,
@@ -1110,7 +1110,7 @@
       "address": "By Dobbies Nursery, EH18 1AR",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151334,
@@ -1121,7 +1121,7 @@
       "address": "168 Morningside Road, EH10 4PU",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -1133,7 +1133,7 @@
       "address": "35 Hanover Street, EH2 2PJ",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -1145,7 +1145,7 @@
       "address": "131 High Street, EH1 1SG",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150397,
@@ -1155,7 +1155,7 @@
       "address": "13 Jane Street, EH6 5HE",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 149943,
@@ -1165,7 +1165,7 @@
       "address": "51-53 Newhaven Place, EH6 4TX",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 150966,
@@ -1176,7 +1176,7 @@
       "address": "1 Jeffrey Street, EH1 1SR",
       "realAles": 1,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151506,
@@ -1187,7 +1187,7 @@
       "address": "2-4 Broughton Road, EH7 4EB",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150867,
@@ -1198,7 +1198,7 @@
       "address": "233 Causewayside, EH9 1PH",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150873,
@@ -1209,7 +1209,7 @@
       "address": "32 Trinity Crescent, EH5 3ED",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 195304,
@@ -1220,7 +1220,7 @@
       "address": "218 Easter Road, EH7 5QH",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150862,
@@ -1231,7 +1231,7 @@
       "address": "1 Howard Place, EH3 5JZ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150885,
@@ -1242,7 +1242,7 @@
       "address": "44 Joppa Road, EH15 2ET",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151290,
@@ -1253,7 +1253,7 @@
       "address": "49-51 London Street, EH3 6LX",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150888,
@@ -1264,7 +1264,7 @@
       "address": "8 Young Street, EH2 4JB",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151586,
@@ -1275,7 +1275,7 @@
       "address": "398 Easter Road, Edinburgh, EH6 8HT",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150068,
@@ -1286,7 +1286,7 @@
       "address": "8 Clifton Terrace, EH12 5DR",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -1298,7 +1298,7 @@
       "address": "Omni Centre, EH1 3AA",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -1310,7 +1310,7 @@
       "address": "87 Portobello High Street, EH15 1AW",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150933,
@@ -1321,7 +1321,7 @@
       "address": "49 Frederick Street, EH2 1EP",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150945,
@@ -1331,7 +1331,7 @@
       "address": "542 Lanark Road, EH14 5EL",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false,
+      "hasRealAle": false,
       "notes": "Closed"
     },
     {
@@ -1343,7 +1343,7 @@
       "address": "2 Montrose Terrace, EH7 5DL",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150951,
@@ -1354,7 +1354,7 @@
       "address": "198 Lanark Road West, EH14 5NX",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150957,
@@ -1365,7 +1365,7 @@
       "address": "367 Leith Walk, EH6 8SE",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151538,
@@ -1376,7 +1376,7 @@
       "address": "55-57 Rose Street, EH2 2NH",
       "realAles": 2,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151667,
@@ -1387,7 +1387,7 @@
       "address": "1 Roseburn Terrace, EH12 5NG",
       "realAles": 2,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149903,
@@ -1398,7 +1398,7 @@
       "address": "23-24 Sandport Place, EH6 6EW",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150039,
@@ -1409,7 +1409,7 @@
       "address": "1 Summerhall, EH9 1PL",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150975,
@@ -1420,7 +1420,7 @@
       "address": "1 Infirmary Street, EH1 1LT",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151386,
@@ -1431,7 +1431,7 @@
       "address": "1 Haymarket Terrace, EH12 5EY",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151272,
@@ -1442,7 +1442,7 @@
       "address": "21 Cadzow Place, EH7 5SN",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151350,
@@ -1453,7 +1453,7 @@
       "address": "58 Dalkeith Road, EH16 5AD",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150351,
@@ -1464,7 +1464,7 @@
       "address": "57-61 Blackfriars Street, EH1 1NB",
       "realAles": 0,
       "numBeers": 10,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "notes": "Listed in GBG but no cask real-ale"
     },
     {
@@ -1476,7 +1476,7 @@
       "address": "25 Forrest Road, EH1 2QH",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149928,
@@ -1486,7 +1486,7 @@
       "address": "73 Cockburn Street, EH1 1BU",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 150984,
@@ -1497,7 +1497,7 @@
       "address": "100 Northfield Broadway, EH8 7RU",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150032,
@@ -1508,7 +1508,7 @@
       "address": "1 Comely Bank Road, EH4 1DT",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151316,
@@ -1519,7 +1519,7 @@
       "address": "65 Lothian Road, EH1 2DJ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -1531,7 +1531,7 @@
       "address": "43 The Causeway, EH15 3QA",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151548,
@@ -1542,7 +1542,7 @@
       "address": "3 The Shore, EH6 6QW",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151010,
@@ -1552,7 +1552,7 @@
       "address": "3-7 West Richmond Street, EH8 9EF",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 150978,
@@ -1563,7 +1563,7 @@
       "address": "27 Spylaw Street, EH13 0JT",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149910,
@@ -1574,7 +1574,7 @@
       "address": "10 Raeburn Place, EH4 1HN",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151016,
@@ -1585,7 +1585,7 @@
       "address": "11 St Vincent Street, EH3 6SW",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151018,
@@ -1596,7 +1596,7 @@
       "address": "50 Mortonhall Gate, EH16 6TJ",
       "realAles": 2,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151070,
@@ -1607,7 +1607,7 @@
       "address": "81 North High Street, EH21 6JE",
       "realAles": 8,
       "numBeers": 8,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151778,
@@ -1618,7 +1618,7 @@
       "address": "62-66 George Street, EH2 2LR",
       "realAles": 9,
       "numBeers": 12,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Wetherspoons"
     },
     {
@@ -1629,7 +1629,7 @@
       "address": "1 Northumberland Place, EH3 6LQ",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 151030,
@@ -1640,7 +1640,7 @@
       "address": "64 Laverockbank Road, EH5 3BZ",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "chain": "Greene King"
     },
     {
@@ -1652,7 +1652,7 @@
       "address": "118-120 Biggar Road, EH10 7DU",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true,
+      "hasRealAle": true,
       "tempClosed": true
     },
     {
@@ -1663,7 +1663,7 @@
       "address": "38 Bernard Street, EH6 6PR",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false,
+      "hasRealAle": false,
       "notes": "Closed"
     },
     {
@@ -1675,7 +1675,7 @@
       "address": "114 Causewayside, EH9 1PU",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149922,
@@ -1686,7 +1686,7 @@
       "address": "26a Dryden Road, EH20 9LZ",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151125,
@@ -1697,7 +1697,7 @@
       "address": "2-4 Raeburn Place, EH4 1HN",
       "realAles": 6,
       "numBeers": 6,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150109,
@@ -1708,7 +1708,7 @@
       "address": "207 Cowgate, EH1 1JQ",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151444,
@@ -1719,7 +1719,7 @@
       "address": "459 Lanark Road, EH14 5BA",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151378,
@@ -1730,7 +1730,7 @@
       "address": "26 William Street, EH3 7NH",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151077,
@@ -1741,7 +1741,7 @@
       "address": "1C Dock Place, EH6 6LU",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151282,
@@ -1752,7 +1752,7 @@
       "address": "25-27 Greenside Place, EH1 3AA",
       "realAles": 5,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149904,
@@ -1763,7 +1763,7 @@
       "address": "39 Thistle Street, EH2 1DY",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151145,
@@ -1774,7 +1774,7 @@
       "address": "182-184 Morrison Street, EH3 8EB",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151719,
@@ -1785,7 +1785,7 @@
       "address": "1 St Andrew Sqaure, EH2 2BD",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151590,
@@ -1796,7 +1796,7 @@
       "address": "114-116 St John's Road, EH12 8AX",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 149961,
@@ -1807,7 +1807,7 @@
       "address": "167 Canongate, EH8 8BN",
       "realAles": 0,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151462,
@@ -1818,7 +1818,7 @@
       "address": "7 Belhaven Terrace, EH10 5HZ",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151075,
@@ -1829,7 +1829,7 @@
       "address": "32 Northumberland Street, EH3 6LS",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150335,
@@ -1839,7 +1839,7 @@
       "address": "55 South Gyle Broadway, EH12 9LR",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false,
+      "hasRealAle": false,
       "chain": "Greene King"
     },
     {
@@ -1851,7 +1851,7 @@
       "address": "13 Hope Street, EH2 4EL",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151582,
@@ -1862,7 +1862,7 @@
       "address": "4-6 South Bridge, EH1 1LL",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151644,
@@ -1873,7 +1873,7 @@
       "address": "34 Grassmarket, EH1 2JU",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151396,
@@ -1884,7 +1884,7 @@
       "address": "92-98 St John's Road, EH12 8AT",
       "realAles": 8,
       "numBeers": 8,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151470,
@@ -1894,7 +1894,7 @@
       "address": "83 High Street, EH21 7DA",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 151302,
@@ -1905,7 +1905,7 @@
       "address": "45 Elm Row, EH7 4AH",
       "realAles": 4,
       "numBeers": 4,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151398,
@@ -1916,7 +1916,7 @@
       "address": "20 Kirk Loan, EH12 7HD",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151683,
@@ -1926,7 +1926,7 @@
       "address": "135 Lanark Road West, EH14 5NZ",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 150031,
@@ -1936,7 +1936,7 @@
       "address": "260-262 Leith Walk, EH6 5EL",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false,
+      "hasRealAle": false,
       "notes": "Previously Woodland Creatures"
     },
     {
@@ -1948,7 +1948,7 @@
       "address": "2-8 High Street, EH1 1TB",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150879,
@@ -1959,7 +1959,7 @@
       "address": "25 Main Street, EH4 5BZ",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150882,
@@ -1970,7 +1970,7 @@
       "address": "43-45 Leith Street, Edinburgh, EH1 3BH",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151570,
@@ -1981,7 +1981,7 @@
       "address": "37 Rose Street, Edinburgh, EH2 2NH",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151657,
@@ -1992,7 +1992,7 @@
       "address": "127 High Street, Edinburgh, EH1 1SG",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151832,
@@ -2003,7 +2003,7 @@
       "address": "167 Rose St., Edinburgh, EH2 4LS",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151324,
@@ -2014,7 +2014,7 @@
       "address": "15 Brougham Place, Edinburgh, EH3 9JX",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150079,
@@ -2025,7 +2025,7 @@
       "address": "17 Albert Place, Edinburgh, EH7 5HN",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151733,
@@ -2036,7 +2036,7 @@
       "address": "1-3 Barclay Place, Edinburgh, EH10 4HW",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150329,
@@ -2047,7 +2047,7 @@
       "address": "112 Jane Street, Edinburgh, EH6 5HG",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151849,
@@ -2058,7 +2058,7 @@
       "address": "180-182 Leith Walk, Edinburgh, EH6 5EA",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151695,
@@ -2068,7 +2068,7 @@
       "address": "96-98 Leith Walk, Edinburgh, EH6 5HB",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": false
+      "hasRealAle": false
     },
     {
       "camraID": 151811,
@@ -2079,7 +2079,7 @@
       "address": "97-99 Broughton Road, Edinburgh, EH7 4EG",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150575,
@@ -2090,7 +2090,7 @@
       "address": "159 Constitution Street, Edinburgh, EH6 7AD",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150859,
@@ -2101,7 +2101,7 @@
       "address": "44a Constitution Street, Edinburgh, EH6 6RS",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151661,
@@ -2112,7 +2112,7 @@
       "address": "7 Bernard Street, Edinburgh, EH6 6PW",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150856,
@@ -2123,7 +2123,7 @@
       "address": "78-82 Main Street, Kirkliston, EH29 9AB",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151402,
@@ -2134,7 +2134,7 @@
       "address": "27 Baird Road, Ratho, EH28 8RU",
       "realAles": 3,
       "numBeers": 3,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150145,
@@ -2145,7 +2145,7 @@
       "address": "20 Main Street, Balerno, EH14 7EH",
       "realAles": 3,
       "numBeers": 5,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151773,
@@ -2156,7 +2156,7 @@
       "address": "80 Main Street, Newtongrange, EH22 4NA",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 151681,
@@ -2167,7 +2167,7 @@
       "address": "Lothianbridge, EH22 4TR",
       "realAles": 1,
       "numBeers": 1,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150333,
@@ -2178,7 +2178,7 @@
       "address": "28/1 Hardengreen Industrial Estate, Eskbank, EH22 3NX",
       "realAles": 0,
       "numBeers": 0,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 198262,
@@ -2189,7 +2189,7 @@
       "address": "166-168 High Street, Dalkeith, EH22 1AY",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     },
     {
       "camraID": 150789,
@@ -2200,7 +2200,7 @@
       "address": "10 Ravensheugh Road, Musselburgh, EH21 7PP",
       "realAles": 2,
       "numBeers": 2,
-      "hasCaskAle": true
+      "hasRealAle": true
     }
   ]
 }

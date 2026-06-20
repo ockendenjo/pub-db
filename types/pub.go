@@ -14,7 +14,7 @@ type Pub struct {
 	Address    string  `json:"address"`
 	RealAles   int     `json:"realAles"`
 	NumBeers   int     `json:"numBeers"`
-	HasCaskAle bool    `json:"hasCaskAle"`
+	HasRealAle bool    `json:"hasRealAle"`
 	Notes      *string `json:"notes,omitempty"`
 	Chain      *string `json:"chain,omitempty"`
 	TempClosed bool    `json:"tempClosed,omitzero"`
