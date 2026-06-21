@@ -1914,9 +1914,10 @@
       "lon": -3.281396,
       "name": "Winstons",
       "address": "20 Kirk Loan, EH12 7HD",
-      "realAles": 3,
+      "realAles": 2,
       "numBeers": 3,
-      "hasRealAle": true
+      "hasRealAle": true,
+      "notes": "Two real ales on during Bogale Jun 26"
     },
     {
       "camraID": 151683,
