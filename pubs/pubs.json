@@ -2203,6 +2203,16 @@
       "realAles": 2,
       "numBeers": 2,
       "hasRealAle": true
+    },
+    {
+      "camraID": 149964,
+      "lat": 55.95217,
+      "lon": -3.17702,
+      "name": "The Parliament Arms",
+      "address": "67 Canongate, Edinburgh, EH8 8BT",
+      "realAles": 1,
+      "numBeers": 3,
+      "hasRealAle": true
     }
   ]
 }
