@@ -1884,7 +1884,8 @@
       "address": "92-98 St John's Road, EH12 8AT",
       "realAles": 8,
       "numBeers": 8,
-      "hasRealAle": true
+      "hasRealAle": true,
+      "chain": "Wetherspoons"
     },
     {
       "camraID": 151470,
