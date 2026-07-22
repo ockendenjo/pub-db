@@ -5,6 +5,8 @@ on:
   schedule:
     - cron: '36 9 * * *'
 
+permissions: {}
+
 jobs:
   sast:
     name: sast
