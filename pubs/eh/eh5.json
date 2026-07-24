@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150873,
+      "goodBeerID": 59467,
+      "lat": 55.980016,
+      "lon": -3.204311,
+      "name": "Old Chain Pier",
+      "address": "32 Trinity Crescent, EH5 3ED",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151030,
+      "goodBeerID": 59497,
+      "lat": 55.979828,
+      "lon": -3.202055,
+      "name": "Starbank Inn",
+      "address": "64 Laverockbank Road, EH5 3BZ",
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true,
+      "chain": "Greene King"
+    }
+  ]
+}

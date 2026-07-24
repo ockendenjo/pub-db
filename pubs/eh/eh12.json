@@ -1,0 +1,119 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151594,
+      "goodBeerID": 59635,
+      "lat": 55.94061,
+      "lon": -3.28332,
+      "name": "Corstorphine Inn",
+      "address": "17 Corstorphine High Street, EH12 7SU",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150281,
+      "goodBeerID": 59427,
+      "lat": 55.9455,
+      "lon": -3.24291,
+      "name": "Edinburgh Whisky House",
+      "address": "14 Corstorphine Road, EH12 6HN",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "notes": "Previously: Hampton"
+    },
+    {
+      "camraID": 150323,
+      "goodBeerID": 59429,
+      "lat": 55.94635,
+      "lon": -3.21628,
+      "name": "Haymarket",
+      "address": "11-14a West Maitland Street, EH12 5DS",
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150068,
+      "goodBeerID": 59393,
+      "lat": 55.946,
+      "lon": -3.2185,
+      "name": "Platform 5",
+      "address": "8 Clifton Terrace, EH12 5DR",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "chain": "Greene King"
+    },
+    {
+      "camraID": 151667,
+      "goodBeerID": 59648,
+      "lat": 55.945375968143,
+      "lon": -3.233838660049,
+      "name": "Roseburn Bar",
+      "address": "1 Roseburn Terrace, EH12 5NG",
+      "realAles": 2,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151386,
+      "goodBeerID": 59597,
+      "lat": 55.94583517787,
+      "lon": -3.217377320099,
+      "name": "Ryrie's",
+      "address": "1 Haymarket Terrace, EH12 5EY",
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151590,
+      "goodBeerID": 59634,
+      "lat": 55.9431,
+      "lon": -3.2839,
+      "name": "Toby Carvery (Corstorphine)",
+      "address": "114-116 St John's Road, EH12 8AX",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150335,
+      "lat": 55.933793,
+      "lon": -3.302873,
+      "name": "Westgate Farm",
+      "address": "55 South Gyle Broadway, EH12 9LR",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
+      "chain": "Greene King"
+    },
+    {
+      "camraID": 151396,
+      "goodBeerID": 59599,
+      "lat": 55.943,
+      "lon": -3.2822,
+      "name": "The White Lady",
+      "address": "92-98 St John's Road, EH12 8AT",
+      "realAles": 8,
+      "numBeers": 8,
+      "hasRealAle": true,
+      "chain": "Wetherspoons"
+    },
+    {
+      "camraID": 151398,
+      "goodBeerID": 59600,
+      "lat": 55.942115,
+      "lon": -3.281396,
+      "name": "Winstons",
+      "address": "20 Kirk Loan, EH12 7HD",
+      "realAles": 2,
+      "numBeers": 3,
+      "hasRealAle": true,
+      "notes": "Two real ales on during Bogale Jun 26"
+    }
+  ]
+}

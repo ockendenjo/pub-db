@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 149966,
+      "goodBeerID": 59336,
+      "lat": 55.95486,
+      "lon": -3.11062,
+      "name": "The Esplanade",
+      "address": "62 Bath Street, EH15 1HF",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150043,
+      "goodBeerID": 59378,
+      "lat": 55.95509,
+      "lon": -3.11795,
+      "name": "Foresters Guild",
+      "address": "40 Portobello High Street, EH15 1DA",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150885,
+      "goodBeerID": 59469,
+      "lat": 55.949133918842,
+      "lon": -3.098640289688,
+      "name": "The Ormelie",
+      "address": "44 Joppa Road, EH15 2ET",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151727,
+      "goodBeerID": 59657,
+      "lat": 55.9541,
+      "lon": -3.1168,
+      "name": "Portobello Tap",
+      "address": "87 Portobello High Street, EH15 1AW",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150996,
+      "goodBeerID": 59488,
+      "lat": 55.942001720352,
+      "lon": -3.148468628311,
+      "name": "Sheep Heid",
+      "address": "43 The Causeway, EH15 3QA",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    }
+  ]
+}

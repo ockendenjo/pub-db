@@ -7,6 +7,8 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
+	"strings"
 	"time"
 
 	"github.com/ockendenjo/pub-db/types"
@@ -17,9 +19,27 @@ func main() {
 	flag.IntVar(&id, "id", 0, "Pub ID")
 	flag.Parse()
 
-	f, err := os.OpenFile("pubs/pubs.json", os.O_RDWR|os.O_CREATE, 0644)
+	errLog := log.New(os.Stderr, "", 0)
+	err := filepath.WalkDir("pubs", func(path string, d os.DirEntry, err error) error {
+		if err != nil {
+			return err
+		}
+		if !d.IsDir() && strings.HasSuffix(path, ".json") {
+			if ferr := processFile(path, id, errLog); ferr != nil {
+				errLog.Printf("%s: %s\n", path, ferr.Error())
+			}
+		}
+		return nil
+	})
 	if err != nil {
-		panic(err)
+		log.Fatal(err)
+	}
+}
+
+func processFile(file string, id int, errLog *log.Logger) error {
+	f, err := os.OpenFile(file, os.O_RDWR|os.O_CREATE, 0644)
+	if err != nil {
+		return err
 	}
 	defer func() {
 		_ = f.Close()
@@ -28,7 +48,7 @@ func main() {
 	var pf types.PubsFile
 	err = json.NewDecoder(f).Decode(&pf)
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	httpClient := &http.Client{
@@ -39,8 +59,6 @@ func main() {
 		},
 	}
 	c := &checker{httpClient: httpClient}
-
-	errLog := log.New(os.Stderr, "", 0)
 
 	for _, pub := range pf.Pubs {
 		if id > 0 && pub.CamraID != id {
@@ -55,15 +73,16 @@ func main() {
 	}
 
 	if err = f.Truncate(0); err != nil {
-		panic(err)
+		return err
 	}
 	if _, err = f.Seek(0, io.SeekStart); err != nil {
-		panic(err)
+		return err
 	}
 	enc := json.NewEncoder(f)
 	enc.SetIndent("", "  ")
 	enc.SetEscapeHTML(false)
 	if err = enc.Encode(pf); err != nil {
-		panic(err)
+		return err
 	}
+	return nil
 }

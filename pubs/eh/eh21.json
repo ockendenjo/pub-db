@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151824,
+      "goodBeerID": 59683,
+      "lat": 55.93484,
+      "lon": -3.09454,
+      "name": "Cuddie Brae",
+      "address": "91 Newcraighall Road, EH21 8RX",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "chain": "Greene King"
+    },
+    {
+      "camraID": 151853,
+      "goodBeerID": 59697,
+      "lat": 55.94368,
+      "lon": -3.05791,
+      "name": "The David MacBeth Moir",
+      "address": "Bridge Street, EH21 6AG",
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true,
+      "chain": "Wetherspoons"
+    },
+    {
+      "camraID": 151070,
+      "goodBeerID": 59510,
+      "lat": 55.944151,
+      "lon": -3.057204,
+      "name": "Staggs",
+      "address": "81 North High Street, EH21 6JE",
+      "realAles": 8,
+      "numBeers": 8,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151470,
+      "lat": 55.9428706604799,
+      "lon": -3.0494457376933615,
+      "name": "The Willow on High Street",
+      "address": "83 High Street, EH21 7DA",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 150789,
+      "goodBeerID": 59450,
+      "lat": 55.944737,
+      "lon": -3.025902,
+      "name": "Levenhall Arms",
+      "address": "10 Ravensheugh Road, Musselburgh, EH21 7PP",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    }
+  ]
+}

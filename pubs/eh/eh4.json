@@ -1,0 +1,82 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 149967,
+      "goodBeerID": 59337,
+      "lat": 55.94948,
+      "lon": -3.22511,
+      "name": "Edinburgh Sports Club",
+      "address": "7 Belford Place, EH4 3DH",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149995,
+      "goodBeerID": 59355,
+      "lat": 55.96007,
+      "lon": -3.21332,
+      "name": "The Grange Cricket Club",
+      "address": "Portgower Place, EH4 1HQ",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149901,
+      "goodBeerID": 59302,
+      "lat": 55.95877,
+      "lon": -3.20987,
+      "name": "Hectors",
+      "address": "47-49 Deanhaugh Street, EH4 1LR",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150032,
+      "goodBeerID": 59370,
+      "lat": 55.9591,
+      "lon": -3.2146,
+      "name": "The Scran & Scallie",
+      "address": "1 Comely Bank Road, EH4 1DT",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149910,
+      "goodBeerID": 62712,
+      "lat": 55.958975,
+      "lon": -3.210319,
+      "name": "St Bernard's Bar",
+      "address": "10 Raeburn Place, EH4 1HN",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151125,
+      "goodBeerID": 59524,
+      "lat": 55.958896,
+      "lon": -3.209958,
+      "name": "The Stockbridge Tap",
+      "address": "2-4 Raeburn Place, EH4 1HN",
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150879,
+      "goodBeerID": 59468,
+      "lat": 55.9657,
+      "lon": -3.2729,
+      "name": "Ye Olde Inn",
+      "address": "25 Main Street, EH4 5BZ",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    }
+  ]
+}

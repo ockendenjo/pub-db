@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150856,
+      "goodBeerID": 59463,
+      "lat": 55.956024,
+      "lon": -3.40231,
+      "name": "Newliston Arms",
+      "address": "78-82 Main Street, Kirkliston, EH29 9AB",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    }
+  ]
+}

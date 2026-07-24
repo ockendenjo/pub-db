@@ -67,7 +67,8 @@
           "lon",
           "name",
           "address",
-          "realAles"
+          "realAles",
+          "numBeers"
         ]
       }
     }

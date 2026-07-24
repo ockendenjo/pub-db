@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151780,
+      "goodBeerID": 59670,
+      "lat": 55.90739,
+      "lon": -3.25609,
+      "name": "Colinton Inn",
+      "address": "12-14 Bridge Road, EH13 0LQ",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150454,
+      "goodBeerID": 59432,
+      "lat": 55.9023,
+      "lon": -3.2208,
+      "name": "Hunter's Tryst",
+      "address": "97 Oxgangs Road, EH13 9NG",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150978,
+      "goodBeerID": 59486,
+      "lat": 55.90768,
+      "lon": -3.258203,
+      "name": "The Spylaw",
+      "address": "27 Spylaw Street, EH13 0JT",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    }
+  ]
+}

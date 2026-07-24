@@ -1,0 +1,84 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151046,
+      "goodBeerID": 59501,
+      "lat": 55.92643,
+      "lon": -3.20958,
+      "name": "Bennets of Morningside",
+      "address": "1 Maxwell Street, EH10 5HT",
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151068,
+      "goodBeerID": 59509,
+      "lat": 55.92758,
+      "lon": -3.20927,
+      "name": "Canny Man's",
+      "address": "237 Morningside Road, EH10 4QU",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151336,
+      "goodBeerID": 59583,
+      "lat": 55.9246,
+      "lon": -3.2097,
+      "name": "The Hermitage",
+      "address": "1-5 Comiston Road, EH10 6AA",
+      "realAles": 2,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151334,
+      "goodBeerID": 59582,
+      "lat": 55.9291,
+      "lon": -3.2098,
+      "name": "The Merlin",
+      "address": "168 Morningside Road, EH10 4PU",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "chain": "Greene King"
+    },
+    {
+      "camraID": 151032,
+      "goodBeerID": 59498,
+      "lat": 55.89068,
+      "lon": -3.20108,
+      "name": "The Steading",
+      "address": "118-120 Biggar Road, EH10 7DU",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "tempClosed": true
+    },
+    {
+      "camraID": 151462,
+      "goodBeerID": 59614,
+      "lat": 55.925253,
+      "lon": -3.210454,
+      "name": "The Waiting Room",
+      "address": "7 Belhaven Terrace, EH10 5HZ",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151733,
+      "goodBeerID": 59658,
+      "lat": 55.940358,
+      "lon": -3.203689,
+      "name": "Belfry",
+      "address": "1-3 Barclay Place, Edinburgh, EH10 4HW",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    }
+  ]
+}

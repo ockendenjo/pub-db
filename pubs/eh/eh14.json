@@ -1,0 +1,70 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150761,
+      "goodBeerID": 59444,
+      "lat": 55.902243,
+      "lon": -3.288456,
+      "name": "Kinleith Mill",
+      "address": "604 Lanark Road, EH14 5EN",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150945,
+      "lat": 55.903339,
+      "lon": -3.285509,
+      "name": "The Railway Inn",
+      "address": "542 Lanark Road, EH14 5EL",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
+      "notes": "Closed"
+    },
+    {
+      "camraID": 150951,
+      "goodBeerID": 59480,
+      "lat": 55.896419533649,
+      "lon": -3.309407288361,
+      "name": "The Riccarton Inn",
+      "address": "198 Lanark Road West, EH14 5NX",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151444,
+      "goodBeerID": 59610,
+      "lat": 55.9072,
+      "lon": -3.2745,
+      "name": "Tanners",
+      "address": "459 Lanark Road, EH14 5BA",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151683,
+      "lat": 55.896984216692,
+      "lon": -3.304917202377,
+      "name": "Woodhall Arms",
+      "address": "135 Lanark Road West, EH14 5NZ",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 150145,
+      "goodBeerID": 59421,
+      "lat": 55.883999,
+      "lon": -3.339004,
+      "name": "Grey Horse",
+      "address": "20 Main Street, Balerno, EH14 7EH",
+      "realAles": 3,
+      "numBeers": 5,
+      "hasRealAle": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150725,
+      "goodBeerID": 59439,
+      "lat": 55.88836,
+      "lon": -3.080268,
+      "name": "The Justinlees",
+      "address": "1-5 Dalhousie Road, EH22 3AT",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151773,
+      "goodBeerID": 62913,
+      "lat": 55.86883,
+      "lon": -3.06879,
+      "name": "Dean Tavern",
+      "address": "80 Main Street, Newtongrange, EH22 4NA",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151681,
+      "goodBeerID": 59649,
+      "lat": 55.872732,
+      "lon": -3.078114,
+      "name": "Sun Inn",
+      "address": "Lothianbridge, EH22 4TR",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150333,
+      "goodBeerID": 77033,
+      "lat": 55.883676,
+      "lon": -3.082222,
+      "name": "Eskbank Brewing Co Taproom",
+      "address": "28/1 Hardengreen Industrial Estate, Eskbank, EH22 3NX",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 198262,
+      "goodBeerID": 87118,
+      "lat": 55.895264,
+      "lon": -3.068114,
+      "name": "Coach & Horses",
+      "address": "166-168 High Street, Dalkeith, EH22 1AY",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    }
+  ]
+}

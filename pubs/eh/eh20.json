@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 149922,
+      "goodBeerID": 59311,
+      "lat": 55.872318,
+      "lon": -3.16149,
+      "name": "Stewart Brewing Taproom",
+      "address": "26a Dryden Road, EH20 9LZ",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    }
+  ]
+}

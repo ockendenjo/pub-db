@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151350,
+      "goodBeerID": 59585,
+      "lat": 55.9383,
+      "lon": -3.174,
+      "name": "The Salisbury Arms",
+      "address": "58 Dalkeith Road, EH16 5AD",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151018,
+      "goodBeerID": 59495,
+      "lat": 55.903693,
+      "lon": -3.181594,
+      "name": "The Stable Bar",
+      "address": "50 Mortonhall Gate, EH16 6TJ",
+      "realAles": 2,
+      "numBeers": 3,
+      "hasRealAle": true
+    }
+  ]
+}
