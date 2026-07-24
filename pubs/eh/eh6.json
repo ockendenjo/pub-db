@@ -1,0 +1,266 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150003,
+      "goodBeerID": 59358,
+      "lat": 55.96402,
+      "lon": -3.17771,
+      "name": "Brass Monkey (Leith Walk)",
+      "address": "362 Leith Walk, EH6 5BR",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149950,
+      "goodBeerID": 65580,
+      "lat": 55.97455,
+      "lon": -3.16082,
+      "name": "The Finch",
+      "address": "2-4 Bath Road, EH6 7JT",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151050,
+      "goodBeerID": 59503,
+      "lat": 55.97606,
+      "lon": -3.16856,
+      "name": "The Carriers Quarters",
+      "address": "42 Bernard Street, EH6 6PR",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150275,
+      "goodBeerID": 74695,
+      "lat": 55.97893,
+      "lon": -3.1866,
+      "name": "Dreadnought",
+      "address": "72 North Fort Street, EH6 4HL",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151837,
+      "goodBeerID": 59689,
+      "lat": 55.97053,
+      "lon": -3.17129,
+      "name": "Angel",
+      "address": "183 Constitution Street, EH6 7AA",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true,
+      "notes": "Previously: The Foot of the Walk"
+    },
+    {
+      "camraID": 1517950,
+      "goodBeerID": 59672,
+      "lat": 55.98078,
+      "lon": -3.19501,
+      "name": "The Harbour Inn",
+      "address": "4-6 Fishmarket Square, EH6 4LW",
+      "realAles": 2,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 150755,
+      "goodBeerID": 59443,
+      "lat": 55.97616,
+      "lon": -3.16964,
+      "name": "King's Wark",
+      "address": "36 The Shore, EH6 6QU",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151306,
+      "goodBeerID": 59573,
+      "lat": 55.975912,
+      "lon": -3.169998,
+      "name": "Malt & Hops",
+      "address": "45 The Shore, EH6 6QU",
+      "realAles": 7,
+      "numBeers": 8,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150397,
+      "lat": 55.969111079401,
+      "lon": -3.173928863754,
+      "name": "Newbarns Brewery & Taproom",
+      "address": "13 Jane Street, EH6 5HE",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 149943,
+      "lat": 55.9826,
+      "lon": -3.1952,
+      "name": "Newhaven Quay",
+      "address": "51-53 Newhaven Place, EH6 4TX",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 151586,
+      "goodBeerID": 59633,
+      "lat": 55.968214790987,
+      "lon": -3.16805405159,
+      "name": "Persevere",
+      "address": "398 Easter Road, Edinburgh, EH6 8HT",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150957,
+      "goodBeerID": 59482,
+      "lat": 55.963759135844,
+      "lon": -3.177495393848,
+      "name": "Robbie's Bar",
+      "address": "367 Leith Walk, EH6 8SE",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149903,
+      "goodBeerID": 59304,
+      "lat": 55.976,
+      "lon": -3.1735,
+      "name": "Roseleaf",
+      "address": "23-24 Sandport Place, EH6 6EW",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151548,
+      "goodBeerID": 59626,
+      "lat": 55.97748,
+      "lon": -3.169036,
+      "name": "The Shore",
+      "address": "3 The Shore, EH6 6QW",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150099,
+      "lat": 55.976085564151,
+      "lon": -3.168412915921,
+      "name": "Steel Coulson (Shore)",
+      "address": "38 Bernard Street, EH6 6PR",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
+      "notes": "Closed"
+    },
+    {
+      "camraID": 151077,
+      "goodBeerID": 59513,
+      "lat": 55.977464,
+      "lon": -3.171407,
+      "name": "Teuchters Landing",
+      "address": "1C Dock Place, EH6 6LU",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150031,
+      "lat": 55.966168818204,
+      "lon": -3.175837550926,
+      "name": "Satyr",
+      "address": "260-262 Leith Walk, EH6 5EL",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false,
+      "notes": "Previously Woodland Creatures"
+    },
+    {
+      "camraID": 150329,
+      "goodBeerID": 76677,
+      "lat": 55.971064,
+      "lon": -3.177726,
+      "name": "Campervan Brewery Tap & Shop",
+      "address": "112 Jane Street, Edinburgh, EH6 5HG",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151849,
+      "goodBeerID": 59695,
+      "lat": 55.967409,
+      "lon": -3.174786,
+      "name": "Volley Leith",
+      "address": "180-182 Leith Walk, Edinburgh, EH6 5EA",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151695,
+      "lat": 55.969052,
+      "lon": -3.173319,
+      "name": "Mother Superior",
+      "address": "96-98 Leith Walk, Edinburgh, EH6 5HB",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 150575,
+      "goodBeerID": 82671,
+      "lat": 55.971101,
+      "lon": -3.170468,
+      "name": "False Widow",
+      "address": "159 Constitution Street, Edinburgh, EH6 7AD",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150859,
+      "goodBeerID": 59464,
+      "lat": 55.974851,
+      "lon": -3.167203,
+      "name": "Nobles by Bellfield",
+      "address": "44a Constitution Street, Edinburgh, EH6 6RS",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151661,
+      "goodBeerID": 59647,
+      "lat": 55.97528,
+      "lon": -3.16716,
+      "name": "Diggers Leith",
+      "address": "7 Bernard Street, Edinburgh, EH6 6PW",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150429,
+      "lat": 55.97709,
+      "lon": -3.1729,
+      "name": "Lost in Leith Bar",
+      "address": "82 Commercial St, Leith, Edinburgh, EH6 6LX",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    }
+  ]
+}

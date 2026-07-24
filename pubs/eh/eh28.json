@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151402,
+      "goodBeerID": 59601,
+      "lat": 55.92326,
+      "lon": -3.37881,
+      "name": "Bridge Inn",
+      "address": "27 Baird Road, Ratho, EH28 8RU",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    }
+  ]
+}

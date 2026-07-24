@@ -1,0 +1,224 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150034,
+      "goodBeerID": 59371,
+      "lat": 55.95795,
+      "lon": -3.2062,
+      "name": "The Antiquary",
+      "address": "68-72 St Stephen Street, EH3 5AQ",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150795,
+      "goodBeerID": 59451,
+      "lat": 55.95752,
+      "lon": -3.2072,
+      "name": "The Bailie",
+      "address": "2 St Stephen Street, EH3 5AL",
+      "realAles": 3,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151034,
+      "goodBeerID": 59499,
+      "lat": 55.94175,
+      "lon": -3.20333,
+      "name": "Bennets Bar",
+      "address": "8 Leven Street, EH3 9LG",
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151280,
+      "goodBeerID": 59564,
+      "lat": 55.9459,
+      "lon": -3.20319,
+      "name": "Blue Blazer",
+      "address": "2 Spittal Street, EH3 9DX",
+      "realAles": 6,
+      "numBeers": 7,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151568,
+      "goodBeerID": 59629,
+      "lat": 55.94432,
+      "lon": -3.20199,
+      "name": "Lauri",
+      "address": "105-107 Lauriston Place, EH3 9JG",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151737,
+      "goodBeerID": 59659,
+      "lat": 55.96019,
+      "lon": -3.201,
+      "name": "Clark's Bar",
+      "address": "142 Dundas Street, EH3 5DQ",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151322,
+      "goodBeerID": 59578,
+      "lat": 55.94323,
+      "lon": -3.20199,
+      "name": "Cloisters",
+      "address": "26 Brougham Street, EH3 9JH",
+      "realAles": 10,
+      "numBeers": 10,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149914,
+      "goodBeerID": 59309,
+      "lat": 55.959,
+      "lon": -3.1972,
+      "name": "The Cumberland Bar",
+      "address": "1-3 Cumberland Street, EH3 6RT",
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150060,
+      "goodBeerID": 59386,
+      "lat": 55.94607,
+      "lon": -3.20348,
+      "name": "Footlights",
+      "address": "7-11 Spittal Street, EH3 9DY",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150012,
+      "goodBeerID": 59363,
+      "lat": 55.94551,
+      "lon": -3.20525,
+      "name": "The Hanging Bat",
+      "address": "133 Lothian Road, EH3 9AB",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151508,
+      "goodBeerID": 59623,
+      "lat": 55.94609,
+      "lon": -3.2135,
+      "name": "Hebrides West End",
+      "address": "185 Morrison Street, EH3 8DZ",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150745,
+      "goodBeerID": 59440,
+      "lat": 55.9557,
+      "lon": -3.205,
+      "name": "Kay's Bar",
+      "address": "39 Jamaica Street West, EH3 6HF",
+      "realAles": 4,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150862,
+      "goodBeerID": 59465,
+      "lat": 55.96335,
+      "lon": -3.200697,
+      "name": "The Orchard",
+      "address": "1 Howard Place, EH3 5JZ",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151290,
+      "goodBeerID": 59567,
+      "lat": 55.959021924043,
+      "lon": -3.190824490738,
+      "name": "The Ox",
+      "address": "49-51 London Street, EH3 6LX",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151016,
+      "goodBeerID": 59494,
+      "lat": 55.957982,
+      "lon": -3.203427,
+      "name": "St Vincent",
+      "address": "11 St Vincent Street, EH3 6SW",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151022,
+      "lat": 55.9573,
+      "lon": -3.1958,
+      "name": "Star Bar",
+      "address": "1 Northumberland Place, EH3 6LQ",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 151378,
+      "goodBeerID": 59595,
+      "lat": 55.949352820226,
+      "lon": -3.212346004963,
+      "name": "Teuchters (West End)",
+      "address": "26 William Street, EH3 7NH",
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151145,
+      "goodBeerID": 59530,
+      "lat": 55.946223719648,
+      "lon": -3.212296402447,
+      "name": "Thomson's Bar",
+      "address": "182-184 Morrison Street, EH3 8EB",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151075,
+      "goodBeerID": 59512,
+      "lat": 55.9568,
+      "lon": -3.1986,
+      "name": "The Wally Dug",
+      "address": "32 Northumberland Street, EH3 6LS",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151324,
+      "goodBeerID": 59579,
+      "lat": 55.942381,
+      "lon": -3.201171,
+      "name": "Seamus's Pub",
+      "address": "15 Brougham Place, Edinburgh, EH3 9JX",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    }
+  ]
+}

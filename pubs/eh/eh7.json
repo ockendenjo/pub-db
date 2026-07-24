@@ -1,0 +1,126 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151270,
+      "goodBeerID": 59562,
+      "lat": 55.9575,
+      "lon": -3.16943,
+      "name": "Artisan",
+      "address": "35 London Road, EH7 5BQ",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150353,
+      "goodBeerID": 80532,
+      "lat": 55.95587,
+      "lon": -3.16423,
+      "name": "Bellfield Brewery Tap Room",
+      "address": "46 Stanley Place, EH7 5TB",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151608,
+      "goodBeerID": 59639,
+      "lat": 55.95838,
+      "lon": -3.183666,
+      "name": "Jeremiah's Taproom",
+      "address": "7-8 Elm Row, EH7 4AA",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150103,
+      "goodBeerID": 66285,
+      "lat": 55.960618,
+      "lon": -3.181291,
+      "name": "Joker & the Thief",
+      "address": "71 Elm Row, EH7 4AQ",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151506,
+      "goodBeerID": 59622,
+      "lat": 55.963,
+      "lon": -3.1956,
+      "name": "O'Connor's",
+      "address": "2-4 Broughton Road, EH7 4EB",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 195304,
+      "goodBeerID": 84203,
+      "lat": 55.96232970477,
+      "lon": -3.170859708004,
+      "name": "Old Eastway Tap",
+      "address": "218 Easter Road, EH7 5QH",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151863,
+      "goodBeerID": 59701,
+      "lat": 55.95642,
+      "lon": -3.172105,
+      "name": "The Regent",
+      "address": "2 Montrose Terrace, EH7 5DL",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151272,
+      "goodBeerID": 59563,
+      "lat": 55.957199376024,
+      "lon": -3.167698748341,
+      "name": "The Safari Lounge",
+      "address": "21 Cadzow Place, EH7 5SN",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151302,
+      "goodBeerID": 59572,
+      "lat": 55.9599,
+      "lon": -3.1823,
+      "name": "The Windsor",
+      "address": "45 Elm Row, EH7 4AH",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150079,
+      "goodBeerID": 62753,
+      "lat": 55.962014,
+      "lon": -3.179437,
+      "name": "Otherworld Bar & Kitchen",
+      "address": "17 Albert Place, Edinburgh, EH7 5HN",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151811,
+      "goodBeerID": 62933,
+      "lat": 55.96424,
+      "lon": -3.193038,
+      "name": "Powder Room Bar",
+      "address": "97-99 Broughton Road, Edinburgh, EH7 4EG",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    }
+  ]
+}

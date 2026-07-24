@@ -1,0 +1,250 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151264,
+      "goodBeerID": 59560,
+      "lat": 55.95327,
+      "lon": -3.19465,
+      "name": "Abbotsford Bar & Restaurant",
+      "address": "3-5 Rose Street, EH2 2PR",
+      "realAles": 6,
+      "numBeers": 7,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149982,
+      "goodBeerID": 59346,
+      "lat": 55.952,
+      "lon": -3.20538,
+      "name": "The Alexander Graham Bell",
+      "address": "126-128 George Street, EH2 4JZ",
+      "realAles": 7,
+      "numBeers": 7,
+      "hasRealAle": true,
+      "chain": "Wetherspoons"
+    },
+    {
+      "camraID": 151796,
+      "goodBeerID": 59673,
+      "lat": 55.95179,
+      "lon": -3.20333,
+      "name": "The Amber Rose",
+      "address": "22-26 Castle Street, EH2 4LS",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151221,
+      "goodBeerID": 59550,
+      "lat": 55.9523,
+      "lon": -3.1994,
+      "name": "Auld Hundred",
+      "address": "100 Rose Street, EH2 2NN",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151761,
+      "goodBeerID": 59663,
+      "lat": 55.95163,
+      "lon": -3.20369,
+      "name": "Black Cat",
+      "address": "168 Rose Street, EH2 4BA",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151502,
+      "goodBeerID": 59620,
+      "lat": 55.95386,
+      "lon": -3.19058,
+      "name": "Cafe Royal",
+      "address": "19 West Register Street, EH2 2AA",
+      "realAles": 5,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150552,
+      "goodBeerID": 59435,
+      "lat": 55.9528,
+      "lon": -3.20599,
+      "name": "The Cambridge Bar",
+      "address": "20 Young Street, EH2 4JB",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151052,
+      "goodBeerID": 59504,
+      "lat": 55.95146,
+      "lon": -3.20491,
+      "name": "Dirty Dick's",
+      "address": "159 Rose Street, EH2 4LS",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150175,
+      "goodBeerID": 59423,
+      "lat": 55.9498,
+      "lon": -3.20925,
+      "name": "The Grosvenor",
+      "address": "26-28 Shandwick Place, EH2 4RT",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150197,
+      "goodBeerID": 59424,
+      "lat": 55.95366,
+      "lon": -3.19004,
+      "name": "Guildford Arms",
+      "address": "1 West Register Street, EH2 2AA",
+      "realAles": 6,
+      "numBeers": 10,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150749,
+      "goodBeerID": 59441,
+      "lat": 55.9518,
+      "lon": -3.2023,
+      "name": "The Kenilworth",
+      "address": "152-154 Rose Street, EH2 3JD",
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151376,
+      "goodBeerID": 59594,
+      "lat": 55.950274,
+      "lon": -3.208684,
+      "name": "Mathers West End",
+      "address": "1 Queensferry Street, EH2 4PA",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151229,
+      "goodBeerID": 59551,
+      "lat": 55.9529,
+      "lon": -3.1964,
+      "name": "Milnes",
+      "address": "35 Hanover Street, EH2 2PJ",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true,
+      "chain": "Greene King"
+    },
+    {
+      "camraID": 150888,
+      "goodBeerID": 59470,
+      "lat": 55.95297,
+      "lon": -3.204794,
+      "name": "The Oxford Bar",
+      "address": "8 Young Street, EH2 4JB",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150933,
+      "goodBeerID": 59475,
+      "lat": 55.9537,
+      "lon": -3.2005,
+      "name": "Queens Arms",
+      "address": "49 Frederick Street, EH2 1EP",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151538,
+      "goodBeerID": 59625,
+      "lat": 55.9525,
+      "lon": -3.1989,
+      "name": "Rose St Brewery",
+      "address": "55-57 Rose Street, EH2 2NH",
+      "realAles": 2,
+      "numBeers": 5,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151778,
+      "goodBeerID": 59669,
+      "lat": 55.9529,
+      "lon": -3.1996,
+      "name": "The Standing Order",
+      "address": "62-66 George Street, EH2 2LR",
+      "realAles": 9,
+      "numBeers": 12,
+      "hasRealAle": true,
+      "chain": "Wetherspoons"
+    },
+    {
+      "camraID": 149904,
+      "goodBeerID": 59305,
+      "lat": 55.954062,
+      "lon": -3.198889,
+      "name": "Thistle Street Bar",
+      "address": "39 Thistle Street, EH2 1DY",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151719,
+      "goodBeerID": 59655,
+      "lat": 55.9537,
+      "lon": -3.192,
+      "name": "Tiles Bistro Bar",
+      "address": "1 St Andrew Sqaure, EH2 2BD",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151370,
+      "goodBeerID": 59592,
+      "lat": 55.950867,
+      "lon": -3.207927,
+      "name": "Whighams Wine Cellars",
+      "address": "13 Hope Street, EH2 4EL",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151570,
+      "goodBeerID": 62867,
+      "lat": 55.952743,
+      "lon": -3.197724,
+      "name": "Robertson's 37 Bar",
+      "address": "37 Rose Street, Edinburgh, EH2 2NH",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151832,
+      "goodBeerID": 59687,
+      "lat": 55.951445,
+      "lon": -3.205312,
+      "name": "Fierce Beer",
+      "address": "167 Rose St., Edinburgh, EH2 4LS",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    }
+  ]
+}

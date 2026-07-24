@@ -1,0 +1,82 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150112,
+      "goodBeerID": 59419,
+      "lat": 55.93821,
+      "lon": -3.19154,
+      "name": "Argyle Bar",
+      "address": "15 Argyle Place, EH9 1JJ",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150611,
+      "goodBeerID": 59436,
+      "lat": 55.93687,
+      "lon": -3.18064,
+      "name": "Brass Monkey (The Grange)",
+      "address": "1 Grange Road, EH9 1UH",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149968,
+      "goodBeerID": 59338,
+      "lat": 55.93802,
+      "lon": -3.19301,
+      "name": "The Earl of Marchmont",
+      "address": "22 Marchmont Crescent, EH9 1HG",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150785,
+      "goodBeerID": 59449,
+      "lat": 55.933551,
+      "lon": -3.177782,
+      "name": "Leslie's",
+      "address": "45-47 Ratcliffe Terrace, EH9 1SU",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150867,
+      "goodBeerID": 59466,
+      "lat": 55.9349,
+      "lon": -3.179,
+      "name": "Old Bell",
+      "address": "233 Causewayside, EH9 1PH",
+      "realAles": 5,
+      "numBeers": 5,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150039,
+      "goodBeerID": 59375,
+      "lat": 55.939935258044,
+      "lon": -3.182427130355,
+      "name": "The Royal Dick (Summerhall)",
+      "address": "1 Summerhall, EH9 1PL",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150826,
+      "goodBeerID": 59457,
+      "lat": 55.9376,
+      "lon": -3.181,
+      "name": "Steel Coulson (Southside)",
+      "address": "114 Causewayside, EH9 1PU",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 151574,
+      "goodBeerID": 59630,
+      "lat": 55.939,
+      "lon": -3.22367,
+      "name": "Athletics Arms (Diggers)",
+      "address": "1-3 Angle Park Terrace, Edinburgh, EH11 2JX",
+      "realAles": 6,
+      "numBeers": 6,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151260,
+      "goodBeerID": 59559,
+      "lat": 55.93764,
+      "lon": -3.22579,
+      "name": "Caley Sample Room",
+      "address": "56 Angle Park Terrace, EH11 2JR",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151739,
+      "goodBeerID": 59660,
+      "lat": 55.94038,
+      "lon": -3.21806,
+      "name": "The Fountain",
+      "address": "127-131 Dundee Street, EH11 1AX",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150082,
+      "goodBeerID": 59403,
+      "lat": 55.93905,
+      "lon": -3.21868,
+      "name": "Golden Rule",
+      "address": "30 Yeaman Place, EH11 1BT",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    }
+  ]
+}

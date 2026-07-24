@@ -1,0 +1,146 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 149891,
+      "goodBeerID": 59296,
+      "lat": 55.93953,
+      "lon": -3.17958,
+      "name": "The Abbey",
+      "address": "65 South Clerk Street, EH8 9PP",
+      "realAles": 4,
+      "numBeers": 4,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150477,
+      "goodBeerID": 59433,
+      "lat": 55.94354,
+      "lon": -3.18015,
+      "name": "Auld Hoose",
+      "address": "23-25 St Leonards Street, EH8 9QN",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true,
+      "tempClosed": true
+    },
+    {
+      "camraID": 149944,
+      "goodBeerID": 59326,
+      "lat": 55.94735,
+      "lon": -3.18531,
+      "name": "Brass Monkey (Southside)",
+      "address": "14 Drummond Street, EH8 9TU",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151266,
+      "goodBeerID": 59561,
+      "lat": 55.95084,
+      "lon": -3.18246,
+      "name": "The Canons' Gait",
+      "address": "232 Canongate, EH8 8DQ",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151814,
+      "goodBeerID": 59678,
+      "lat": 55.94708,
+      "lon": -3.18653,
+      "name": "The Captain's Bar",
+      "address": "4 South College Street, EH8 9AA",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150692,
+      "goodBeerID": 59438,
+      "lat": 55.93904,
+      "lon": -3.18002,
+      "name": "Cask & Barrel (Southside)",
+      "address": "24-26 West Preston Street, EH8 9PZ",
+      "realAles": 6,
+      "numBeers": 7,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149902,
+      "goodBeerID": 59303,
+      "lat": 55.94214,
+      "lon": -3.184,
+      "name": "Dagda",
+      "address": "93-95 Buccleuch Street, EH8 9NG",
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 196867,
+      "goodBeerID": 85745,
+      "lat": 55.951037808972,
+      "lon": -3.18185364418,
+      "name": "Mackays on the Mile",
+      "address": "223 Canongate, EH8 8BJ",
+      "realAles": 1,
+      "numBeers": 1,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150984,
+      "goodBeerID": 59487,
+      "lat": 55.955448,
+      "lon": -3.140574,
+      "name": "The Scottie",
+      "address": "100 Northfield Broadway, EH8 7RU",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 151010,
+      "lat": 55.9453,
+      "lon": -3.1836,
+      "name": "The Southsider",
+      "address": "3-7 West Richmond Street, EH8 9EF",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    },
+    {
+      "camraID": 149961,
+      "goodBeerID": 59332,
+      "lat": 55.9515,
+      "lon": -3.1805,
+      "name": "Tolbooth Tavern",
+      "address": "167 Canongate, EH8 8BN",
+      "realAles": 0,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149964,
+      "lat": 55.95217,
+      "lon": -3.17702,
+      "name": "The Parliament Arms",
+      "address": "67 Canongate, Edinburgh, EH8 8BT",
+      "realAles": 1,
+      "numBeers": 3,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 150371,
+      "lat": 55.94933,
+      "lon": -3.18265,
+      "name": "Holyrood 9A",
+      "address": "9A Holyrood Road, Edinburgh, EH8 8AE",
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
+    }
+  ]
+}

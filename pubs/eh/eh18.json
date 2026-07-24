@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/pubs.schema.json",
+  "pubs": [
+    {
+      "camraID": 150768,
+      "goodBeerID": 59445,
+      "lat": 55.883500794293,
+      "lon": -3.115235626984,
+      "name": "Laird & Dog Inn",
+      "address": "5 High Street, EH18 1NA",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    },
+    {
+      "camraID": 149963,
+      "goodBeerID": 59334,
+      "lat": 55.895132,
+      "lon": -3.096431,
+      "name": "Melville Inn",
+      "address": "By Dobbies Nursery, EH18 1AR",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
+    }
+  ]
+}

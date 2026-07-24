@@ -19,3 +19,7 @@ type Pub struct {
 	Chain      *string `json:"chain,omitempty"`
 	TempClosed bool    `json:"tempClosed,omitzero"`
 }
+
+type PubsFileWithoutSchema struct {
+	Pubs []*Pub `json:"pubs"`
+}
