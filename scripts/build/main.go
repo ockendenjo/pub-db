@@ -40,7 +40,7 @@ func main() {
 		panic(err)
 	}
 
-	err = os.WriteFile("output/pubs.json", b, 0644)
+	err = os.WriteFile("output/pubs.json", b, 0600)
 	if err != nil {
 		panic(err)
 	}
