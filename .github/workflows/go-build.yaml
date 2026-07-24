@@ -40,3 +40,4 @@ jobs:
           CGO_ENABLED: 0
         run: |
           go build -o build -trimpath -buildvcs=false -ldflags="-w -s" ./scripts/check-data
+          go build -o build -trimpath -buildvcs=false -ldflags="-w -s" ./scripts/build
