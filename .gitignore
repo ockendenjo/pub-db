@@ -3,3 +3,4 @@ stack/tfvars
 .terraform/
 .golangci.json
 yajsv*
+output
