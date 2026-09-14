@@ -15,7 +15,7 @@ permissions:
 jobs:
   validate:
     name: Validate
-    uses: ./.github/workflows/validate.yaml
+    uses: $/.github/workflows/validate.yaml
 
   sync:
     name: Sync
@@ -23,11 +23,11 @@ jobs:
     permissions:
       id-token: write # OIDC authentication with AWS
       contents: read
-    uses: ./.github/workflows/sync.yaml
+    uses: $/.github/workflows/sync.yaml
     secrets:
       AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
       BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
 
   build:
     name: Go
-    uses: ./.github/workflows/go-build.yaml
+    uses: $/.github/workflows/go-build.yaml
