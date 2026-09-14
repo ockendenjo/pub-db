@@ -29,8 +29,8 @@ jobs:
       - name: Download zizmor
         shell: bash
         run: |
-          wget -nv https://github.com/zizmorcore/zizmor/releases/download/v1.25.2/zizmor-x86_64-unknown-linux-gnu.tar.gz
-          echo "aa1facd105f0d83fe5c55b1adcd9d7417de5d83aa27471f91dc0b66cf3803577  zizmor-x86_64-unknown-linux-gnu.tar.gz" | sha256sum --check
+          wget -nv https://github.com/zizmorcore/zizmor/releases/download/v1.30.1/zizmor-x86_64-unknown-linux-gnu.tar.gz
+          echo "e65324f4430c2717591937edcec90ccbefaf14c174f8ec9415e03ca875b46e1a  zizmor-x86_64-unknown-linux-gnu.tar.gz" | sha256sum --check
           tar -xvzf zizmor-x86_64-unknown-linux-gnu.tar.gz
 
       - name: Run zizmor

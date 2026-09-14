@@ -12,8 +12,8 @@ permissions:
 jobs:
   validate:
     name: Validate
-    uses: ./.github/workflows/validate.yaml
+    uses: $/.github/workflows/validate.yaml
 
   build:
     name: Go
-    uses: ./.github/workflows/go-build.yaml
+    uses: $/.github/workflows/go-build.yaml
