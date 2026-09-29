@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"context"
 	"fmt"
 	"io"
 	"net/http"
@@ -35,7 +36,11 @@ func (c *checker) checkPub(pub *types.Pub) error {
 		return err
 	}
 
-	res, err := c.httpClient.Get(urlStr)
+	req, err := http.NewRequestWithContext(context.Background(), http.MethodGet, urlStr, nil)
+	if err != nil {
+		return err
+	}
+	res, err := c.httpClient.Do(req)
 	if err != nil {
 		return err
 	}
@@ -53,18 +58,9 @@ func (c *checker) checkPub(pub *types.Pub) error {
 		return err
 	}
 
-	updaters := []updater{
-		updateNumBeers,
-		updateCaskStatus,
-	}
-
-	hasChanges := false
-	for _, updateFn := range updaters {
-		changed, err := updateFn(pub, urlStr, b)
-		if err != nil {
-			return err
-		}
-		hasChanges = hasChanges || changed
+	hasChanges, err := applyUpdaters(pub, urlStr, b)
+	if err != nil {
+		return err
 	}
 
 	if pub.RealAles > pub.NumBeers {
@@ -76,6 +72,22 @@ func (c *checker) checkPub(pub *types.Pub) error {
 	}
 
 	return nil
+}
+
+func applyUpdaters(pub *types.Pub, urlStr string, b []byte) (bool, error) {
+	updaters := []updater{
+		updateNumBeers,
+		updateCaskStatus,
+	}
+	hasChanges := false
+	for _, updateFn := range updaters {
+		changed, err := updateFn(pub, urlStr, b)
+		if err != nil {
+			return false, err
+		}
+		hasChanges = hasChanges || changed
+	}
+	return hasChanges, nil
 }
 
 func updateCaskStatus(pub *types.Pub, urlStr string, b []byte) (bool, error) {
