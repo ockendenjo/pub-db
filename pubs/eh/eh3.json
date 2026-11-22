@@ -219,6 +219,16 @@
       "realAles": 2,
       "numBeers": 2,
       "hasRealAle": true
+    },
+    {
+      "camraID": 151697,
+      "lat": 55.962333,
+      "lon": -3.197153,
+      "name": "One Canon",
+      "address": "1 Canonmills, Edinburgh, EH3 5HA",
+      "realAles": 2,
+      "numBeers": 2,
+      "hasRealAle": true
     }
   ]
 }
