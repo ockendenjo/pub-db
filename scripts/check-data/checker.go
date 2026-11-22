@@ -18,7 +18,7 @@ var (
 	regBeers      = regexp.MustCompile(`(\d+) regular`)
 )
 
-const caskStr = "https://camra.org.uk/images/beer-containers/cask-ale-venues.png"
+const caskStr = "cloudfront.net/camra-experience/content/beer-containers/cask-ale-venues.webp"
 
 type checker struct {
 	httpClient *http.Client

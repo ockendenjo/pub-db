@@ -58,15 +58,15 @@
       "notes": "Previously: The Foot of the Walk"
     },
     {
-      "camraID": 1517950,
+      "camraID": 151795,
       "goodBeerID": 59672,
       "lat": 55.98078,
       "lon": -3.19501,
       "name": "The Harbour Inn",
       "address": "4-6 Fishmarket Square, EH6 4LW",
       "realAles": 2,
-      "numBeers": 0,
-      "hasRealAle": false
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 150755,
@@ -205,9 +205,9 @@
       "lon": -3.174786,
       "name": "Volley Leith",
       "address": "180-182 Leith Walk, Edinburgh, EH6 5EA",
-      "realAles": 1,
-      "numBeers": 1,
-      "hasRealAle": true
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
       "camraID": 151695,
