@@ -41,10 +41,9 @@
       "lon": -3.18659,
       "name": "Bannermans",
       "address": "212 Cowgate, EH1 1NQ",
-      "realAles": 3,
-      "numBeers": 3,
-      "hasRealAle": true,
-      "tempClosed": true
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
       "camraID": 150083,
@@ -489,7 +488,7 @@
       "name": "Royal Mile",
       "address": "127 High Street, Edinburgh, EH1 1SG",
       "realAles": 3,
-      "numBeers": 3,
+      "numBeers": 4,
       "hasRealAle": true
     }
   ]

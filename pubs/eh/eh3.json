@@ -107,9 +107,9 @@
       "lon": -3.20525,
       "name": "The Hanging Bat",
       "address": "133 Lothian Road, EH3 9AB",
-      "realAles": 3,
-      "numBeers": 3,
-      "hasRealAle": true
+      "realAles": 0,
+      "numBeers": 0,
+      "hasRealAle": false
     },
     {
       "camraID": 151508,
