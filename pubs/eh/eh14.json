@@ -18,10 +18,9 @@
       "lon": -3.285509,
       "name": "The Railway Inn",
       "address": "542 Lanark Road, EH14 5EL",
-      "realAles": 0,
-      "numBeers": 0,
-      "hasRealAle": false,
-      "notes": "Closed"
+      "realAles": 3,
+      "numBeers": 3,
+      "hasRealAle": true
     },
     {
       "camraID": 150951,

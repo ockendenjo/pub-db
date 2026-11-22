@@ -5,6 +5,7 @@ import (
 	"flag"
 	"io"
 	"log"
+	"log/slog"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -19,13 +20,25 @@ func main() {
 	flag.IntVar(&id, "id", 0, "Pub ID")
 	flag.Parse()
 
+	level := slog.LevelInfo
+	if os.Getenv("LOG_LEVEL") == "DEBUG" {
+		level = slog.LevelDebug
+	}
+
+	okLog := slog.New(slog.NewTextHandler(os.Stdout, &slog.HandlerOptions{Level: level}))
 	errLog := log.New(os.Stderr, "", 0)
+
+	fileProc := &fileProcessor{
+		logger:    okLog,
+		errLogger: errLog,
+	}
+
 	err := filepath.WalkDir("pubs", func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
 		if !d.IsDir() && strings.HasSuffix(path, ".json") {
-			if ferr := processFile(path, id, errLog); ferr != nil {
+			if ferr := fileProc.processFile(path, id); ferr != nil {
 				errLog.Printf("%s: %s\n", path, ferr.Error())
 			}
 		}
@@ -36,7 +49,12 @@ func main() {
 	}
 }
 
-func processFile(file string, id int, errLog *log.Logger) error {
+type fileProcessor struct {
+	logger    *slog.Logger
+	errLogger *log.Logger
+}
+
+func (fp *fileProcessor) processFile(file string, id int) error {
 	f, err := os.OpenFile(file, os.O_RDWR|os.O_CREATE, 0644)
 	if err != nil {
 		return err
@@ -58,7 +76,7 @@ func processFile(file string, id int, errLog *log.Logger) error {
 			ResponseHeaderTimeout: 5 * time.Second,
 		},
 	}
-	c := &checker{httpClient: httpClient}
+	c := &checker{httpClient: httpClient, logger: fp.logger}
 
 	for _, pub := range pf.Pubs {
 		if id > 0 && pub.CamraID != id {
@@ -67,7 +85,7 @@ func processFile(file string, id int, errLog *log.Logger) error {
 
 		err = c.checkPub(pub)
 		if err != nil {
-			errLog.Printf("%s %s\n", pub.Name, err.Error())
+			fp.errLogger.Printf("%s %s\n", pub.Name, err.Error())
 		}
 		time.Sleep(1 * time.Second)
 	}

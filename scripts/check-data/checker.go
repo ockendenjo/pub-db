@@ -3,8 +3,8 @@ package main
 import (
 	"bytes"
 	"context"
-	"fmt"
 	"io"
+	"log/slog"
 	"net/http"
 	"net/url"
 	"regexp"
@@ -22,13 +22,10 @@ const caskStr = "cloudfront.net/camra-experience/content/beer-containers/cask-al
 
 type checker struct {
 	httpClient *http.Client
+	logger     *slog.Logger
 }
 
 func (c *checker) checkPub(pub *types.Pub) error {
-	if pub.GoodBeerID == nil {
-		return nil
-	}
-
 	idStr := strconv.Itoa(pub.CamraID)
 
 	urlStr, err := url.JoinPath("https://camra.org.uk/pubs/", idStr)
@@ -49,7 +46,7 @@ func (c *checker) checkPub(pub *types.Pub) error {
 	}()
 
 	if res.StatusCode != http.StatusOK {
-		fmt.Printf("%s: HTTP status %d\n", pub.Name, res.StatusCode)
+		c.logger.Info("Non-200 status code", "pub", pub.Name, "statusCode", res.StatusCode)
 		return nil
 	}
 
@@ -58,7 +55,7 @@ func (c *checker) checkPub(pub *types.Pub) error {
 		return err
 	}
 
-	hasChanges, err := applyUpdaters(pub, urlStr, b)
+	hasChanges, err := c.applyUpdaters(pub, urlStr, b)
 	if err != nil {
 		return err
 	}
@@ -68,16 +65,16 @@ func (c *checker) checkPub(pub *types.Pub) error {
 	}
 
 	if !hasChanges {
-		fmt.Printf("%s | %s - no changes\n", urlStr, pub.Name)
+		c.logger.Debug("Pub has no changes", "pub", pub.Name, "url", urlStr)
 	}
 
 	return nil
 }
 
-func applyUpdaters(pub *types.Pub, urlStr string, b []byte) (bool, error) {
+func (c *checker) applyUpdaters(pub *types.Pub, urlStr string, b []byte) (bool, error) {
 	updaters := []updater{
-		updateNumBeers,
-		updateCaskStatus,
+		c.updateNumBeers,
+		c.updateCaskStatus,
 	}
 	hasChanges := false
 	for _, updateFn := range updaters {
@@ -90,18 +87,18 @@ func applyUpdaters(pub *types.Pub, urlStr string, b []byte) (bool, error) {
 	return hasChanges, nil
 }
 
-func updateCaskStatus(pub *types.Pub, urlStr string, b []byte) (bool, error) {
+func (c *checker) updateCaskStatus(pub *types.Pub, urlStr string, b []byte) (bool, error) {
 	hasCask := bytes.Contains(b, []byte(caskStr))
 	hasChanges := false
 	if hasCask != pub.HasRealAle {
-		fmt.Printf("%s | %s: hasCask %t->%t\n", urlStr, pub.Name, pub.HasRealAle, hasCask)
+		c.logger.Info("Real ale status changed", "pub", pub.Name, "realAle", hasCask)
 		pub.HasRealAle = hasCask
 		hasChanges = true
 	}
 	return hasChanges, nil
 }
 
-func updateNumBeers(pub *types.Pub, urlStr string, b []byte) (bool, error) {
+func (c *checker) updateNumBeers(pub *types.Pub, urlStr string, b []byte) (bool, error) {
 	count := 0
 
 	regMatch := regBeers.FindStringSubmatch(string(b))
@@ -124,7 +121,7 @@ func updateNumBeers(pub *types.Pub, urlStr string, b []byte) (bool, error) {
 
 	hasChanges := false
 	if count != pub.NumBeers {
-		fmt.Printf("%s | %s: numBeers %d->%d\n", urlStr, pub.Name, pub.NumBeers, count)
+		c.logger.Info("Num beers changed", "pub", pub.Name, "oldCount", pub.NumBeers, "newCount", count)
 		pub.NumBeers = count
 		hasChanges = true
 	}
